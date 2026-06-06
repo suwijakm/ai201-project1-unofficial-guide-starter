@@ -1,6 +1,12 @@
 # API keys — never commit these
 .env
 
+# Claude Code local settings (machine-specific paths)
+.claude/settings.local.json
+
+# Personal VS Code settings
+.vscode/
+
 # Python
 __pycache__/
 *.py[cod]
