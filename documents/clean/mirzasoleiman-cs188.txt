@@ -1,0 +1,47 @@
+# Baharan Mirzasoleiman — COM SCI 188
+# https://www.bruinwalk.com/professors/baharan-mirzasoleiman/com-sci-188-7/
+# 8 reviews
+
+--- review 130259 (Winter 2023 | Grade: NR | April 1, 2023) ---
+awful
+
+--- review 116462 (Winter 2021 | Grade: A | March 28, 2021) ---
+Prof. Mirzasoleman is a very nice and a great professor. She is always calm. I really enjoyed her lectures. She was also always available to help students and answer their questions. She is clearly an expert in this area and she enjoys explaining them to students. The exam was hard but it is a fair one if you attend the lectures and do the homework. I wish there were more examples in the lectures or discussion sections. But, overall, I enjoyed the course and I highly recommend it. It gives a very good high-level picture of ML and Data Science.
+
+--- review 116455 (Winter 2021 | Grade: P | March 28, 2021) ---
+This class is a pretty useless class, since there is a huge lack of practice material. It doesn't help that the homeworks barely test on what is covered in class, leading to like 5 people attending live lecture everyday, while there are 100 people in the class.
+
+This class is focused on a bunch of ML models, like M146, except there are no derivations, and you're basically just using models from sklearn / other ML libraries, and running them to see results. To me, this seemed extremely stupid, since I had no idea what any of the models were doing inside. Also, we never even learned how to do random search or grid search for hyperparameter tuning, which made this class even stupider.
+
+Honestly, this class material could be learned in like 1 week if there was a good textbook and syllabus to follow, since we barely covered anything in depth in the homework or the tests. There were only 3 homeworks and 3 projects, each probably took less than 2 hours, so a very light workload.
+
+The exam was the worst part of this class. If we actually knew anything, the exam would be easy, but because of no practice problems in lecture, like 1 practice problem in discussion, and no textbook, it was impossible to practice for the exam. If there was 1 practice exam, I would have understood what I was weak on .. but no, hence the exam was hard even though I could have studied all the relevant practice problems in like 30 minutes.
+
+Also, Piazza communication is super weak here, questions were left unanswered for weeks and hastily answered before the final. Not a good look.
+
+All in all, a class not worth taking. If you want to learn how to implement ML models, spend like 5 minutes on sklearn. If you want to learn the inner workings of basic ML models, take M146 (you def do NOT learn it in this class). If you want to learn the inner workings of neural networks, take ECE 247, or spend 15 minutes watching a 3 blue 1 brown video. It's not even an easy A since the test at the end is a total crapshoot and worth 40% of your grade; if you want an ez class take CM122. Rant over!
+
+--- review 130485 (Winter 2023 | Grade: A- | April 4, 2023) ---
+This is not an easy course, and the difficulty increases as the class goes on. But as a Data Science Minor student, I absolutely loved it and felt that I learned a lot from it. Projects were the best part of the course; it was taking time but definitely doable. Prof. Mirzasoleiman is also great. She is extremely kind and very good at explaining material and goes at a speed that is easy to follow. I like that she recaps concepts covered in previous lectures at the start of every lecture. She cares for her students a lot.
+
+--- review 130261 (Winter 2023 | Grade: A | April 1, 2023) ---
+There are two separate things to discuss in this review, the professor and the course content.
+
+Mirzasoleiman seems to care a lot about student learning, but that's the only redeeming quality for this dogshit class. The lectures are slow, bordering on boring. Mirzasoleiman spends half of each lecture recapping the previous lecture's content, so you only learn about half of what could be included in this course.
+
+The exams and homework assignments are somethign else entirely. The exams were utter dogshit. Questions were written poorly and the grading was utterly pedantic. If you actually understand anything about data science, you should just forget it for this class titled "Data Science Fundamentals," because you can't assume that the graders know anything about data science. If you don't write exactly what the official solution says, word for word (and I actually mean word for word), then expect to get severely penalized. That's not to mention that the official solutions were sometimes just outright wrong for significant parts of the final, or made leaps of logic that are utterly unjustifiable.
+
+The project 3 this year was ludicrous. It was assigned way too early, before half of the requisite information was even taught in lecture, and the task was actually preposterous. We were given a dataset with a train/test split that had a 20% swing in class balance between train and test and expected to train a classifier that performed well on the test set. One of the fundamental assumptions of data science is identically distributed eamples, which was clearly violated and made the problem almost impossible to actually solve.
+
+The course content is an entirely separate issue. Most of the course is the exact same content as CS M146 Machine Learning, taught at half the speed and with a quarter of the mathematical depth. The only unique content to this class is interpretation of coefficients, which could probably be taught in 2 lectures at most. There's no reason to take both classes (except that the Data Science Engineering minor requires both), and the department doesn't seem to care that it's wasting students' time by teaching the same class twice.
+
+It's hard to say anything good about this class. It's poorly taught, poorly graded, poorly structured, and poorly conceived. It is a pale imitation of what a data science curriculum should be, even ignoring all the problems with course logistics. The only reason to take it is because it's a required minor course. Otherwise, take CS M146 instead.
+
+--- review 115905 (Winter 2021 | Grade: A | March 22, 2021) ---
+The material is pretty interesting, it's like the more applied/less theoretical version of M146 (machine learning). The class was pretty disorganized and the grading wasn't great, but I guess that's to be expected of new classes, it'll probably be better in the future. My TA Lionel was awesome, really cares about the students and puts a lot of effort into making discussion good. I'd recommend.
+
+--- review 130707 (Winter 2023 | Grade: A | April 7, 2023) ---
+Professor Mirzasoleiman is an amazing and caring instructor. She taught this class very well. I very much liked the course organization and lecture coverage. The lectures were mostly toward machine learning and probability aspect of data science field and avoid the complex math concepts. She was providing the lecture slides, as well as the annotated lecture slides after the lecture which was very helpful. The course also has interesting assignments and projects, but the only concern is that the workload is heavy in the beginning. M148 is my favorite class I've taken so far. Overall I learned a lot, Sweet Professor, Good Course.
+
+--- review 116466 (Winter 2021 | Grade: A+ | March 28, 2021) ---
+The course covers A LOT of topics but I liked it since it gives a good overview of different topics in ML and Data Science without going to math and details. Prof. Mirzasoleiman is also a great professor and she clearly cares a lot about her students. She also explains the topics very well and engaging. There was only one exam which was a bit hard but they were fair and generous in grading. I wish the TAs were more active in discussion section (maybe solving more examples?) and more responsive in Piazza. Overall, I highly recommend this course. In particular if you don't like math but you want to get a high-level picture of data science, this is a great course.

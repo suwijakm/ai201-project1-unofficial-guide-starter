@@ -1,0 +1,282 @@
+# Mark Burgin — COM SCI 180
+# https://www.bruinwalk.com/professors/mark-burgin/com-sci-180/
+# 21 reviews
+
+--- review 98538 (Summer 2018 | Grade: A | Dec. 21, 2018) ---
+I am writing this to extend my heartiest appreciation towards professor Burgin for delivering such a wonderful class of algorithm. His knowledge on the subject is vast and has cleared lots of my doubts. I had a chance to interact with him personally for discussing my queries. I am sure that the lecture given by him will definitely be helpful to us during our exams. He's a great professor, and very, very fair in grading. He also gives student s chances to earn extra credits in class. As long as you pay attention in lecture, do the homework and go to his office hours, you should be getting the grade you desired. He always makes the subject interesting, and I really love taking his class and learned so much through his lecture. Not only he teaches in a different way to make us interested in learning, but he also understands our problems and helps us find the best way to solve. I am going to graduate soon but I will surely miss you and things you thought me. Thanks again,
+
+--- review 90021 (Summer 2016 | Grade: A | Aug. 17, 2016) ---
+Since the official final grade is submitted, I can finally freely write down what I want to say for this guy.
+
+If you don't want to see this lengthy post, here is the conclusion: This instructor is horrible. If you can, please avoid him at all cost. At least for his CS 180.
+
+1. Lectures His lecture is unorganized. He always uses confusing notations to cover algorithms, and he never gives us an example to actually apply those algorithms. A lot of students stopped attending lectures because literally it's a waste of 2 hours. He already skipped a lot of materials (possibly due to time constraints) but he is willing to talk about why Noble prize does not include Math for 20 minutes.
+
+2. Materials covered He skipped a lot of materials. I have a list of comparison of materials covered. The second column comes from Majid. The third column is available at math department's website: https://www.math.ucla.edu/ugrad/courses/math/182
+
+Dr. Burgin
+
+1.1, 1.2
+
+2.1, 2.2, 2.4
+
+3.1,3.2, 3.5, 3,6
+
+4.1 (part of)
+
+5.1, 5.4
+
+6.1, 6.4 (part of)
+
+7.1, 7.2, 7.5, 7.7
+
+8.1, 8.2, 8.3, 8.4
+
+Majid
+
+1.1
+
+2.1, 2.2, 2.4
+
+3.1, 3.2, 3.5, 3.6
+
+4.1, 4.2, 4.4, 4.5, 4.6, 4.7, 4.8
+
+5.1, 5.2, 5.3, 5.4
+
+6.1, 6.2, 6,4, 6.5, 6.6, 6.8
+
+7.1, 7.2, 7.5, 7.8, 7.9
+
+8.1, 8.2, 8.3, 8.4
+
+Math Department
+
+1.1, 1.2
+
+2.1, 2.2, 2.4
+
+3.1-3.5
+
+4.1, 4.4, 4.5
+
+5.1, 5.2, 5.3, 5.4
+
+6.1, 6.4, 6.5, 6.6
+
+7.1, 7.2, 7.7, 7.9, 7.10, 7.11
+
+8.1, 8.2, 8.3, 8.4?
+
+As you can see, he skipped so many from greedy algorithms and dynamic programming. He also did not cover very important concepts like DAGs until the last lecture. He probably wouldn't cover that at all if no one complained about it to the cs department.
+
+Every time I ask senior students or full-time staffers about algorithms, they always ask me to practice on greedy and dynamic programming. Majid also covered a lot about greedy algorithms and dynamic programming. It is frustrating to see an instructor skipping most widely used types of algorithms in an "introduction to algorithm" class.
+
+I understand that it is an 8-week class and due to time constraint we are not expected to cover as much as a 10-week class. However, he occupied full two hours for every lecture and he was willing to spend 20 minutes (and did not even finish) talking about why Noble prize does not have Math. I do think covering more materials is more important than telling an anecdote. Also, math 182 only has 3 hours in a week, and Majid only covers 1.5 hours max in each lecture.
+
+If we calculate the time here: 20 lectures in a regular quarter for CS 180; Deduce 1 Holiday and 1 midterm -> 18 lectures. Time = 18 * 1.5 = 27 hours.
+
+Then we covert this to get a feel about summer classes: 27 / 2 = 13.5 lectures. In total, we have 8 * 2 = 16 lectures. There is one lecture for midterm and one lecture for final. Then we have 14 lectures.
+
+13.5 < 14
+
+This is simple math. Time should not be an excuse for skipping that many materials.
+
+Also, it's fine if he actually teaches us how those algorithms that he covered work, but the fact is no one understands what he is doing.
+
+Moreover, I have to thank our TAs for covering important topics that Dr. Burgin skipped and for all the interview advices.
+
+3. Homework 3.1 Coverage There are three homework sets. There are 3 problems (really easy) in homework 1 to practice chapter 1.1 and 2.4. There are 3 problems (really confusing) in homework 2 to practice 4.1, 3.2, 6.4 respectively. There are 2 problems (one really confusing, one really easy) in homework 3 to practice 6.1, 7.1.
+
+As you can see, we do not have enough exercises and he skipped divide and conquer completely.
+
+3.2 Homework specification The phrasing of homework is really confusing. I understand that he is not a native English speaker, but at least he should specify key things to do homework, right?
+
+For example, in homework 3, problem 1: Is it a single simple cycle? Are the weights nonnegative?
+
+We have to ask him after class since his office hours are right after class. For students who have a class right after CS 180, it's unfortunate. If you have those clarifications, please send us emails or post clarifications on piazza, OK??? The whole class are bewildered and have no idea about what homework questions try to ask.
+
+TAs Office Hours are totally useless since TAs, too, have no idea about what his problems mean.
+
+3.3 Homework grading and hand-back The homework won't be given back to us. We have to ask him to see our homework score one by one, and correct grading issues if possible (actually there are always grading issues due to miscommunications between Dr. Burgin and TAs). Again, students who have a class right after this one really don't have a way to see homework scores and reasons for points taken off.
+
+He made an announcement on week 7 Wednesday about handing back homework and midterms, but the fact is nothing changed. We still need to line up to see our homework and midterms. In fact, I have never been able to see my homework 1 till now.
+
+3.4 Homework solutions No homework solution is released. If we didn't know how to do those questions before due date, we still don't know how to do them now. In my humble opinion this is not the right way to help students learn materials.
+
+4. Exams He posted HW2 on July 16th and asked us to do it to prepare for the midterm on July 20th. However, when we have questions about HW2, he wouldn't answer. I went to both TA Office Hours on July 18th and July 19th. Both of them said they had no idea about how to do those HW questions.
+
+On the midterm, there are two really similar questions to ones in HW2. OK, I guess he didn't want to answer those questions because two of them were on the midterm. After the midterm, we asked him about solutions to the midterm, and he said in class "I won't give you answers since you still have HW2."
+
+I am totally confused. An instructor released a homework for students to prepare for the midterm and did not give students solutions to that homework, and then refused to give students solutions to the midterm because the homework used prepare for the midterm was not due yet.
+
+The grading is also ridiculous. The TA for section 1B, Jae, was in the same room when we took the midterm, and Dr. Burgin said that we did not need to prove any property of DFS / BFS. However, Jae took off 2 points for anyone not proving one property of DFS / BFS. He was there when we took the midterm. I have no idea about why he did that. If I had not chosen to skip my M51A lectures to see my midterm, I would have lost those 2 points for ever. 2 points are a huge difference for a non-curved class like this.
+
+The final consists of 3 problems.
+
+1. Knapsack problem. Note he only covered a less generalized version of knapsack problem: subset sum. 2. Network flow. Really easy problem. Just give a counter example. 3. Greedy with exchange argument. I know how to prove using exchange argument, but Dr. Burgin never covered this in his class and majority of students have no clue about how to use exchange argument.
+
+If anyone sit through any other professor's lecture, he or she will be able to do these three problems correctly. However, if you only attended Dr. Burgin's lectures and never really spend time reading necessary chapters from the book, then good luck on your exams.
+
+This class is a total disaster. I paid for nearly 2000 dollars to learn nothing. I have never seen anything more ridiculous in my two years here at UCLA. If you can, please avoid him at all cost. At least for his CS 180.
+
+Grade distribution: Here is the result from a piazza poll:
+
+A total of 47 vote(s) 17 (36% of users) A 14 (30% of users) B 11 (23% of users) C 3 (6% of users) D 2 (4% of users) Other
+
+--- review 97933 (Summer 2018 | Grade: A | Oct. 25, 2018) ---
+One of the other reviews for Summer 2018 is laughable, impertinent, and amounts to nothing more than an impetuous stream of invective. Often those students who do well and are happy do not post reviews precisely because they are satisfied. Those who are unhappy, for whatever reason, tend to make the most noise. I am someone in the former category so I write this review without emotional bias.
+
+Dr. Burgin is the most helpful instructor I've ever had at UCLA. He will explain something to you ten times if necessary without becoming impatient. He welcomes all questions at any time during the lecture. He promised to answer all questions, and that promise was certainly kept.
+
+His lecturing style is not rapid-fire. He speaks slowly and clearly, giving students sufficient time to absorb the material. His aim is not to simply regurgitate information and hope the students understand. Other professors pay a lot less attention to this, and as a result students spend much of the lecture thoroughly confused.
+
+Dr. Burgin does this class the way it is supposed to be done: with full mathematical rigor. This class is about the "rigorous" design and analysis of algorithms. Complexity Theory is a branch of mathematics and that is sufficient reason to mathematically prove the complexity of every algorithm encountered in this class.
+
+Without a rigorous mathematical proof of an algorithm's correctness and complexity, you CANNOT trust the algorithm to always work. The algorithms you usually use are trustworthy because people have proved these things about them. A lot of people think that if something works for n <= 5,000,000 or so then it always works. This is totally, absolutely false and there are thousands of conjectures that have been disproven with huge counterexamples. Counterexamples so large that no computer could ever find them. For example: https://math.stackexchange.com/questions/514/conjectures-that-have-been-disproved-with-extremely-large-counterexamples
+
+This is why Dr. Burgin does this class with full mathematical rigor. This is the very point of this class, and this is what makes CS180 different from CS32. The algorithmic paradigms covered are diverse and useful: dynamic programming, divide and conquer, greedy, various graph algorithms, and network flow. Dr. Burgin covered all these paradigms in enough detail to ensure that a student can go on to independently tackle problems using these paradigms.
+
+Dr. Burgin does indeed have a PhD in math, and this is a class that heavily uses rigorous mathematics. That makes perfect sense. I don't understand why some other people have a problem with this.
+
+Dr. Burgin's homeworks are not large in number of questions, but they contain some challenging problems. There was one problem that stumped almost everyone. Dr. Burgin gives a lot of extra credit in class for insightful questions and answers. So go and earn that extra credit. It can make the difference between an A and a B. Dr. Burgin also gives assignments that are not required, but will provide extra credit if done.
+
+His midterm was not very difficult but the exam was definitely challenging. There was a rather deceptive-looking problem on network flow as well. One of the highlights of this class was the Ford-Fulkerson algorithm for finding the maximal flow. Dr. Burgin presented the algorithm with full mathematical detail, with which I was very satisfied.
+
+I highly recommend Dr. Burgin's CS180. Few other professors are so concerned about whether their students learn something or not. If you work hard in this class, Dr. Burgin will recognize that.
+
+--- review 119408 (Summer 2021 | Grade: A | Sept. 22, 2021) ---
+Professor Burgin is an amazing instructor who explains concepts thoroughly and addresses the questions of his students with care. Likewise, the professor is extremely knowledgeable on many things related to mathematics and computer science theory given his academic training and history of research. Though the course material is difficult, Professor Burgin seeks to explain all topics as thoroughly as possible and makes sure to answer student questions promptly whether they be in lecture, office hours, or over email. He is a very pleasant person, and I am convinced that he cares about his students greatly.
+
+During this summer session, we had 5 homework assignments over the course of eight weeks. Each homework assignment contained few questions, but each question required students to think critically about the algorithmic problem at hand. Though the homework was difficult on its own, Professor Burgin was quick to clarify any problems and was very patient with our questions. During lectures, he also spends extra time covering material closely related to the homework, even mentioning if what is currently being covered will be helpful for the homework. Thus, the homework assignments ended up feeling very fair. So long as you pay attention in lectures and ask the right questions, the homework assignments will feel very doable and will not absorb too much of your time.
+
+Exam problems were similar to the homework problems in structure and format. The grading was fair for both the midterm and final and both exams felt doable. Since this was an online class, Professor Burgin kept the format as a twenty-four hour exam similar to the math department. Though I usually loathe this format due to its increased length and difficulty, Professor Burgin kept the length very reasonable which I greatly appreciate. To do well on exams, make sure to pay attention in lectures especially during the few lectures before the exam. He often points us in the correct direction when it comes to studying and even drops hints for what we might see on the exams.
+
+Overall, I would highly recommend Professor Burgin if you are a proactive student who enjoys professors who are not afraid of communicating. Likewise, if you enjoy the math/theory side of computer science, then you will feel right at home with this professor given his expertise in many things math-related. It is rare to find a professor who is as caring as Professor Burgin and this class has quickly become one of my favorites. I would definitely take more classes with him in the future if given the opportunity.
+
+--- review 111428 (Summer 2020 | Grade: A | Oct. 1, 2020) ---
+Dr. Burgin has been a great instructor. He is extremely clear in his lectures and does not rush through any concept. He takes time to go through the algorithms and explain the proof extremely well. Dr. Burgin does not rush through algorithms to cover as much material as possible over the duration of the quarter, instead, he makes sure that what he does cover is understood by most of his students. While the homework assignments given in this class are extremely different from most classes, they are an opportunity to apply algorithms to various ‘fictional’ scenarios. The problems are challenging, however, the assignment helps look at an abstract scenario in a concrete way by reducing the question to one that we have been taught an algorithm for. These problems are extremely helpful in understanding the widespread application of an algorithm; just because an algorithm is named a sorting algorithm or a scheduling algorithm doesn’t mean that it can only be applied to those situations. Dr. Burgin’s assignments prepare us to think of real-world problems in the terms of a problem that we can solve. Additionally, I really appreciate how Dr. Burgin accepts different answers for the same problem. He encourages approaching the problem from different perspectives and thinking beyond the box. Dr. Burgin also loves to discuss algorithms with students and promptly responds to queries. He goes through student ideas and pseudo algorithms and guides students towards the correct solution. Dr. Burgin was also extremely helpful and accommodating during summer 2020 when the class was online due to COVID-19 restrictions. He gave students 24 hours to work on the tests (midterm and final) and was extremely considerate of students in different timezones.
+
+--- review 94431 (Summer 2017 | Grade: A | Dec. 17, 2017) ---
+Very mixed feelings about Professor Burgin.
+
+First of all, Burgin speaks unbelievably slow. He almost reminds me of Flash from Zootopia. Anyways, this could be good or bad, depending on the person. It might be nice since you do have ample time to write down what the professor writes, and then think about it, and maybe even check your phone and reply to some messages or look at memes while you wait for him to finish his sentence. I, on the other hand, found it very hard to follow along and keep attention. It doesn't help that he makes a TON of mistakes. He'll make a mistake, and then talk for a minute or two before realizing his mistake. And since so much time has passed, it's sometimes confusing to know which mistake he was referring.
+
+With that said, he is a very kind, old man. As other reviews have said, he's very welcoming and encourages questions (also can be bad sometimes, i.e. a lot of class time spent on questions that should really be saved for office hours).
+
+--- review 94149 (Summer 2017 | Grade: A | Nov. 27, 2017) ---
+I took CS180 Intro to Algorithms with Dr. Burgin in Summer of 2017 and it turned out to be one of my favorite classes at Ucla. The professor is top notch. He takes teaching seriously and during class and office hours, his only concern is to help you learn. I really liked that. Every class, he would remind us that no question was stupid, and would move at a pace that everyone could follow. At times this may seem a hindrance to students who are quick, but I can tell you that although one may think they know the material, there multiple right answers in algorithms and paying attention may give you a different perspective to looking at a problem and make you better for it.
+
+In order to help students pay attention, the professor awards points for answering questions or intelligent comments. These help your grade in the end. There is a limit on these to also make sure other students have a chance to get these points. It is very fair. He will also stay after class to answer every single question before he leaves. So essentially he is holding an office hour for about an hour after every class.
+
+The homeworks are very fair. I took the summer session, but we were still given ample time to try the problems, go to office hours to ask questions, then try again. The homework questions may require some clarification in order to narrow the answer down. There was even a homework problem that didn't really have a definitive answer, but such is the nature of algorithms and the professor was very understanding in office hours when this was brought up. He listens to his students and is very reasonable. There were 3 homeworks over 8 weeks.
+
+The midterms and final are very fair and the questions are very similar to the homeworks. There were no surprises. During the tests, you are allowed to ask any questions you need for clarification. You are also allowed any handwritten notes. After the midterms are graded, he will answer any questions about it. He listens to all grievances, just please don't misuse it.
+
+Interactions with the professor are always pleasant and helpful. He is highly intelligent, but most importantly he is also adept at going to the student's perspective and explaining things from any level of understanding. Algorithms can get hard very quickly and I found that he was always able to help me understand concepts. Of course, this means that I attempted to understand by myself already. You have to make it your responsibility to spend some time beforehand to comb notes and materials and then express any lack of understanding precisely. This will make the best use of your time.
+
+Overall, the professor is top notch. A true intellectual with a humble, caring personality. To help his students learn he has created a class with reasonable homework and tests, and also provides many opportunities to ask questions both during class and outside of it. The class is not perfect; I would love to see a computer component added, since algorithms necessitates realization on a computing device in the real world. That said, I do also see the value in being able to create and evaluate an algorithm on paper. I found the class rewarding and would definitely recommend it.
+
+--- review 92692 (Summer 2016 | Grade: A | June 7, 2017) ---
+TL;DR This instructor is horrible. If you can, please avoid him at all cost. At least for his CS 180. =================================================================== 1. Lectures His lecture is unorganized. He always uses confusing notations to cover algorithms, and he never gives us an example to actually apply those algorithms. A lot of students stopped attending lectures because literally it's a waste of 2 hours. He already skipped a lot of materials (possibly due to time constraints) but he is willing to talk about why Noble prize does not include Math for 20 minutes. 2. Materials covered He skipped a lot of materials. I have a list of comparison of materials covered. The second column comes from Majid. The third column is available at math department's website: https://www.math.ucla.edu/ugrad/courses/math/182 Dr. Burgin 1.1, 1.2 2.1, 2.2, 2.4 3.1,3.2, 3.5, 3,6 4.1 (part of) 5.1, 5.4 6.1, 6.4 (part of) 7.1, 7.2, 7.5, 7.7 8.1, 8.2, 8.3, 8.4 Majid 1.1 2.1, 2.2, 2.4 3.1, 3.2, 3.5, 3.6 4.1, 4.2, 4.4, 4.5, 4.6, 4.7, 4.8 5.1, 5.2, 5.3, 5.4 6.1, 6.2, 6,4, 6.5, 6.6, 6.8 7.1, 7.2, 7.5, 7.8, 7.9 8.1, 8.2, 8.3, 8.4 Math Department 1.1, 1.2 2.1, 2.2, 2.4 3.1-3.5 4.1, 4.4, 4.5 5.1, 5.2, 5.3, 5.4 6.1, 6.4, 6.5, 6.6 7.1, 7.2, 7.7, 7.9, 7.10, 7.11 8.1, 8.2, 8.3, 8.4? As you can see, he skipped so many from greedy algorithms and dynamic programming. He also did not cover very important concepts like DAGs until the last lecture. He probably wouldn't cover that at all if no one complained about it to the cs department. Every time I ask senior students or full-time staffers about algorithms, they always ask me to practice on greedy and dynamic programming. Majid also covered a lot about greedy algorithms and dynamic programming. It is frustrating to see an instructor skipping most widely used types of algorithms in an "introduction to algorithm" class. I understand that it is an 8-week class and due to time constraint we are not expected to cover as much as a 10-week class. However, he occupied full two hours for every lecture and he was willing to spend 20 minutes (and did not even finish) talking about why Noble prize does not have Math. I do think covering more materials is more important than telling an anecdote. Also, math 182 only has 3 hours in a week, and Majid only covers 1.5 hours max in each lecture. If we calculate the time here: 20 lectures in a regular quarter for CS 180; Deduce 1 Holiday and 1 midterm -> 18 lectures. Time = 18 * 1.5 = 27 hours. Then we covert this to get a feel about summer classes: 27 / 2 = 13.5 lectures. In total, we have 8 * 2 = 16 lectures. There is one lecture for midterm and one lecture for final. Then we have 14 lectures. 13.5 < 14 This is simple math. Time should not be an excuse for skipping that many materials. Also, it's fine if he actually teaches us how those algorithms that he covered work, but the fact is no one understands what he is doing. Moreover, I have to thank our TAs for covering important topics that Dr. Burgin skipped and for all the interview advices. 3. Homework 3.1 Coverage There are three homework sets. There are 3 problems (really easy) in homework 1 to practice chapter 1.1 and 2.4. There are 3 problems (really confusing) in homework 2 to practice 4.1, 3.2, 6.4 respectively. There are 2 problems (one really confusing, one really easy) in homework 3 to practice 6.1, 7.1. As you can see, we do not have enough exercises and he skipped divide and conquer completely. 3.2 Homework specification The phrasing of homework is really confusing. I understand that he is not a native English speaker, but at least he should specify key things to do homework, right? For example, in homework 3, problem 1: Is it a single simple cycle? Are the weights nonnegative? We have to ask him after class since his office hours are right after class. For students who have a class right after CS 180, it's unfortunate. If you have those clarifications, please send us emails or post clarifications on piazza, OK??? The whole class are bewildered and have no idea about what homework questions try to ask. TAs Office Hours are totally useless since TAs, too, have no idea about what his problems mean. 3.3 Homework grading and hand-back The homework won't be given back to us. We have to ask him to see our homework score one by one, and correct grading issues if possible (actually there are always grading issues due to miscommunications between Dr. Burgin and TAs). Again, students who have a class right after this one really don't have a way to see homework scores and reasons for points taken off. He made an announcement on week 7 Wednesday about handing back homework and midterms, but the fact is nothing changed. We still need to line up to see our homework and midterms. In fact, I have never been able to see my homework 1 till now. 3.4 Homework solutions No homework solution is released. If we didn't know how to do those questions before due date, we still don't know how to do them now. In my humble opinion this is not the right way to help students learn materials. 4. Exams He posted HW2 on July 16th and asked us to do it to prepare for the midterm on July 20th. However, when we have questions about HW2, he wouldn't answer. I went to both TA Office Hours on July 18th and July 19th. Both of them said they had no idea about how to do those HW questions. On the midterm, there are two really similar questions to ones in HW2. OK, I guess he didn't want to answer those questions because two of them were on the midterm. After the midterm, we asked him about solutions to the midterm, and he said in class "I won't give you answers since you still have HW2." I am totally confused. An instructor released a homework for students to prepare for the midterm and did not give students solutions to that homework, and then refused to give students solutions to the midterm because the homework used prepare for the midterm was not due yet. The grading is also ridiculous. The TA for section 1B, Jae, was in the same room when we took the midterm, and Dr. Burgin said that we did not need to prove any property of DFS / BFS. However, Jae took off 2 points for anyone not proving one property of DFS / BFS. He was there when we took the midterm. I have no idea about why he did that. If I had not chosen to skip my M51A lectures to see my midterm, I would have lost those 2 points for ever. 2 points are a huge difference for a non-curved class like this. The final consists of 3 problems. 1. Knapsack problem. Note he only covered a less generalized version of knapsack problem: subset sum. 2. Network flow. Really easy problem. Just give a counter example. 3. Greedy with exchange argument. I know how to prove using exchange argument, but Dr. Burgin never covered this in his class and majority of students have no clue about how to use exchange argument. If anyone sit through any other professor's lecture, he or she will be able to do these three problems correctly. However, if you only attended Dr. Burgin's lectures and never really spend time reading necessary chapters from the book, then good luck on your exams. This class is a total disaster. I paid for nearly 2000 dollars to learn nothing. I have never seen anything more ridiculous in my two years here at UCLA. If you can, please avoid him at all cost. At least for his CS 180. Grade distribution: Here is the result from a piazza poll: A total of 47 vote(s) 17 (36% of users) A 14 (30% of users) B 11 (23% of users) C 3 (6% of users) D 2 (4% of users) Other
+
+--- review 97637 (Summer 2018 | Grade: NR | Aug. 30, 2018) ---
+This is the most unprofessional, poorly run class I've ever taken in my life. The fact that grades have not even been posted past the deadline shows this (in fact, CCLE/MyUCLA does not even have any assignment grades posted, though we have received 1 homework back and you could see your midterm grade only by asking the professor AFTER class). The syllabus has no information on the class's grading scheme, test dates, or even the textbook, and the professor did not mention any of this until we asked him during week 2. In addition, whoever graded our homework/exams did not leave ANY notes of what people did wrong or how they lost credit (on exams with 3 free response questions). How could you even ask the professor how and where you lost 2 points out of 30 in your 2 page long answer? We had no idea how we were expected to be graded on exams/homeworks that are entirely free response. Worst of all, the homework specs are so unclear that they explicitly leave out very bare and essential information about the problems; you are expected to make assumptions. On top of all this, I didn't learn anything aside from what I read in the textbook because the professor can't lecture to save his life.
+
+He talks so incredibly slow that it is near impossible to pay attention, but even if you do pay attention he doesn't take time to explain concepts behind the algorithms well and seems to just be going through his notes (he just assumes you can understand every complex step of the algorithms and proofs), on top of this he uses no slides and writes only on a blackboard (in the most unorganized, non-intuitive way possible so even copying the board won't do you anything.) He pretty much only uses mathematical notation to explain algorithms and problem backgrounds, which I feel is not the best way to teach material with real-life applications. For such an essential CS class, I highly recommend you do not take it with Burgin because I didn't learn anything from the professor and the whole experience was awful at best.
+
+--- review 93840 (Summer 2017 | Grade: A | Sept. 27, 2017) ---
+I took CS 180 during Summer 2017 with Professor Mark Burgin. The course is an overview of the major algorithm and complexity topics an undergraduate studying computer science should know.
+
+I found Professor Burgin’s lectures to be very clear. He explains all of the mathematical symbols he uses and doesn’t skip over any steps in the derivation and construction of algorithms/proofs. He is also always asking if there are any questions from students and takes time to answer each question, no matter how trivial it may be.
+
+There were no surprises in the examinations. They covered topics from the lecture, homework, and textbook and are straightforward questions. He also tells you what to prepare for beforehand if you ask so there is every opportunity to do well on the exams.
+
+There were 3 homework assignments, each with 2-3 questions. This may be a pro or a con depending on you. For me it was a positive thing because I was taking another summer course so having homework due every other week allowed me to have a manageable course-load. It also gave me enough time to absorb the material and learn the topics.
+
+Professor Burgin also encourages participation in class by rewarding students who answer questions or spot mistakes with extra credit points that increase your overall grade in the course. I found this to be an extremely effective incentive as it made me pay extra attention during lecture which made me learn more. It also boosted my grade!
+
+As for Professor Burgin, I found that he genuinely cares about student learning and it shows in his classroom demeanor. He takes time after class and during office hour to answer each student’s question and is always willing to give hints and guide the student in a helpful direction without giving away the answer.
+
+Overall my experience in the class greatly exceeded my expectations. As an applied mathematics major, I came in expecting to learn important computer science algorithms to help prepare for a graduate degree and career in computer science. Not only did I learn algorithms, but I also came away empowered with the knowledge and confidence to do well in my chosen endeavor. Granted I worked very hard in this course, but the path to do well and learn in this class is very clear, unlike some other courses.
+
+I absolutely recommend Professor Burgin and would definitely take him for any course he teaches. This has been one of my favorite and rewarding courses at UCLA, and he’s a valuable asset to the UCLA faculty. If you’re ready to commit to the class and put in the time, then you should go for it!
+
+This is how you do well in the course:
+
+1. Read the corresponding book sections. The course uses Algorithm by Kleinberg and Tardos, and follows it closely. If there’s something you don’t understand or want greater clarification in, you can read the corresponding book chapter for greater detail.
+
+2. Ask to clarify anything you don’t understand. Professor Burgin is willing to answer any question so ask during lecture, after class, or during office hours if there is something you don’t understand. Also watch youtube videos on the algorithms, it helps to have a different perspective on the same thing.
+
+3. Start the homework problems when they’re assigned and give yourself some time to absorb the problems. You’ll get marked off points by the grader for being imprecise or unclear so you want to give yourself enough time to make sure your solution is correct and that you understand it because the exam questions will test you on the same topics.
+
+4. Work smart. Don’t reinvent the wheel. The solutions to the homework closely follow the book examples. I saw some classmates spend a long time trying to come up with a very complicated and convoluted solution when the solution was similar to a book example. READ THE BOOK.
+
+5. Go to Office Hours/TA. They can point you in the direction to go for homework, help verify your solutions, and Professor Burgin will give hints on what will be on the exams if you ask.
+
+That's it folks!
+
+--- review 90344 (Summer 2016 | Grade: A | Nov. 8, 2016) ---
+I took Dr. Burgin's CS 180 class this summer. It was truthfully a terrific experience and I highly recommend taking it with Burgin. He does a very good job of explaining each proof for every algorithm in detail, and if you don't understand any part of a proof it is very easy to approach him during break or office hours. He will spend as much time as necessary to make sure every student understands each part of every algorithm and its proof. His homeworks are not too difficult, but I would make sure you do them and understand them well. If you do so, you should be able to get a good grade on the tests. I would highly recommend being in a class with Burgin, as he explains the material thoughtfully, in depth, and understandably. He makes sure his proofs are mathematically precise and at the same time not too formal so as to not waste time. If you take this class I guarantee that by the end, if you put in the work, you will understand the material remarkably well.
+
+--- review 89989 (Summer 2016 | Grade: A | Aug. 7, 2016) ---
+This guy doesn't know how to teach CS 180. Majority of the class stopped attending lectures after 3 or 4 weeks. Everything is a mess.
+
+--- review 102928 (Summer 2019 | Grade: NR | Aug. 22, 2019) ---
+This is my first time writing a review on bruinwalk. This is the WORST professor and the WORST experience I've I ever had. If you are not the following people I describe, PLEASE AVOID AT ALL COST!!!!!! 1) loves answering questions ##This professor gives tons of extra credits for answer questions and they are super easy but you have to respond really fast. 2) wants a B or a pass ##hard A, relatively easy B 3) super super super smart ##Even without a professor you can get an A
+
+To be honest, this professor welcomes questions and loves helping students, and he knows his stuff, so basically, you can learn about algorithms from him. However, he is a slow person and this causes a lot of confusions and annoyance.
+
+Alright, here are my reasons why I wish I would have never taken this course. First, this professor talks really really really slow that I would learn much more from a course in the regular quarter. Second, we HAVE TO ASK ABOUT HOMEWORK CLARIFICATION because none of the homework is clearly assigned. None of us understands the problem unless he explains in his office hour. To make it worse, homework is VERY strictly graded. Too strict that when I am correct, the points are deducted, and I had to ask the professor why I was wrong and he asked me to wait. To make it even worse, he graded all the two homework in week 8(one remaining because the third one was submitted during the final week). WEEK EIGHT??????? So basically, you will know nothing about how your exams and homework is going and have no chance to decide whether to drop this course because you will never know them until 24 hours before the final exam.
+
+Graded midterms also have tons of mistakes. There is no explanation of why points are deducted, and almost all the people asked for a re-grade and after going to 2-3 times of office hour we succeed, and most of us get 10-20 points back. Sounds good? NO. These points are actually what we deserve. You will never know if the final exam and the last homework would be fairly graded, plus the final is much harder than the midterm.
+
+If I were you and I had a chance to choose whether to take this course or not, I will not. If you have to take this course, then wish you luck, and don't be so afraid because B is not so hard.
+
+--- review 122669 (Summer 2021 | Grade: A | March 17, 2022) ---
+I really enjoyed taking CS 180 with Professor Burgin. His lectures were engaging and he encourages people to ask questions during class. Professor Burgin really emphasizes the theory part while teaching Algorithms. He tries to make sure that people understand exactly how each algorithm work and how to prove that they are correct.
+
+We had five homework assignments which were each due a week after they were assigned. They each covered topics taught in class and Professor Burgin made sure to answer questions to clarify the problems that were assigned. It is important to pay attention to how the material is taught in class and written in the textbook because Professor Burgin wants to see the questions answers using rigorous mathematical notation. There is partial credit for the homework questions as each have multiple parts that need to be answered. It is important to prove the correctness for the algorithms in the homeworks and the exams.
+
+The midterm and final were similar to the homeworks but were only given a day to be completed. They both could be completed within the time provided and were similar to problems in class or in the textbook. Professor Burgin answers clarifications questions by email during the exam. I enjoyed answering the problems as they were all stated as real world scenarios that needed a solution. I recommend reading over your solutions in order to make sure that they are clear to the graders.
+
+Taking algorithms with Professor Burgin was a very interesting class for me as it is taught for a theoretical computer science perspective. He mentions additional mathematical topics beyond the scope of the class such as Kolmogorov Complexity in order to give his students a greater background computational theory. I feel that I learned at lot from Professor Burgin as the topics that he taught were useful for further courses such as CS 181 (Formal Languages and Automata Theory) and CS 161 (Artificial Intelligence). While he did not spend specifically on algorithms for interview prep, the skills that Professor Burgin taught can be applied throughout the field of computer science.
+
+--- review 119571 (Summer 2020 | Grade: A | Oct. 24, 2021) ---
+I see there are some polarizing reviews for this class and professor so hopefully I can bridge the gap. Given that this is a class for mostly computer science majors I can see why some feel frustrated about the content. This class is more of a math class than computer science; we learn algorithms (some are important for interviews) but the real focus is on proving that the algorithm works. To me, it was a refreshing break from 8 hour coding projects, but maybe not to others. I want to emphasize that math is the basis of any STEM discipline, so it is important to at least understand the reasoning hiding behind the notation of rigorous proofs. As for lectures, I took the class online and so it was Zoom lectures with a whiteboard. I do prefer this format to slides for any class with a lot of math. Professor Burgin speaks slowly and methodically; this can be good or bad depending on your learning speed. Either way you can adjust the speed in the recordings so it's not a big deal. I personally think that he did a good job balancing mathematical rigor and practicality and though the notation may be difficult to understand at first, it is consistent. The homework usually consisted of proving 1 or 2 algorithms. The load and difficulty was fair and the professor is very helpful if you do have questions. Exam questions were very similar in difficulty to the homework. Overall, if you pay attention in lecture and you enjoy more theoretical content this is a great class for you. Otherwise, still pay attention and ask questions as you go.
+
+--- review 115257 (Summer 2020 | Grade: A | March 2, 2021) ---
+Lectures: useless. I stopped going after week 2, because the prof is either incomprehensible or moving at a snails pace. I learned all the material through the completion of the homework, which allowed me to do better than average on the tests. I did so by reading the textbook and using it to reference answers for specific questions in the HW. With this professor, that's the move. With other professors, I'm sure you'd have to actually attend lecture and learn something :shrug:
+
+--- review 111717 (Summer 2020 | Grade: A | Nov. 6, 2020) ---
+I took Dr. Burgin's class in an online setting over the summer. Overall I felt that he did a really good job teaching the material. He explains all the algorithms and proofs in detail and doesn't skip any steps or explanations in the symbol usage that many other professors would have deemed trivial, which saved me from many bouts of confusion. Though sometimes the homework/exam questions could be worded ambiguously, he was very patient and approachable and was always willing to help with homework or conceptual clarifications during office hours.
+
+Additionally, Dr. Burgin talks very slowly, which was incredibly helpful in the online setting. It really gave me the time to take notes and comprehend what he was teaching instead of just getting caught in a mad scramble to write down as much as possible. The homework and exams were not overly challenging, but not easy either; you will need to put in the effort to really understand the material. The class topics are critical if you take more computer science courses, so the effort will be worth it, grade notwithstanding.
+
+--- review 111712 (Summer 2020 | Grade: A | Nov. 6, 2020) ---
+Dr. Burgin is a very knowledgable professor. He dived very deep to this area and his works are influential and extensively cited. In addition to programming knowldge, he has a rather solid mathematic background, which is exactly what student need in a algorithm class like cs180. For every type of problems we need to learn in this class, Dr. Burgin provides a clear and rigorous definition. For the same reason, the algorithm he teaches is rather comprehensive that can be applied to a wide range of study. If you want have a solid understanding of algorithm design rather than just superficial knowledge, you will gain what you want from this class.
+
+Regarding grading, Dr.Burgin provide students a opportunity to choose whether using +/- scheme. This will help if you get an - score and you will be round up, which actually elevate the chance of getting an A.
+
+The workload is fair. Each week we focus on one type of the problem. And the assgnment is just design an algorithm to solve the problem. For most of the time, the solution has been provided by Dr. Burgin during lecture and all you need to do is to apply the algorithm. So the assgnment will be easy for you if you pay attention to the class.
+
+And the exam is close to homework, but sometimes Dr. Burgin will make some changes to the setup and you will need do some transformation to apply the algorithm you did in homework. Overall, the exam is pretty inspiring and manageable
+
+--- review 111058 (Summer 2020 | Grade: A | Aug. 25, 2020) ---
+I had a good experience in Dr. Burgin's class overall. I took his class in Summer, which is a little fast paced (8weeks including final week). However, we were able to finish class materials and have a good sense of what CS180 has to offer. CS180 is in general not an easy class. It requires a lot of effort, studying and can be a little time consuming if you are not used to proofs. Dr. Burgin makes it easy to understand and gives fair homework each week giving you plenty of time to work on them. Homework/ Midterm questions can sometimes be ambiguous but Dr. Burgin has his door open for questions and clarifications and is willing to help students. Overall, Dr. Burgin is a very nice person, helpful, approachable and wants his students to succeed.
+
+--- review 110590 (Summer 2018 | Grade: A | July 11, 2020) ---
+It has been two years since I took this course with professor Burgin but I still remember how I felt about the course. I'm almost graduating from school and I can say that this class is one of my favorite classes I took at UCLA. Here are some of the reasons I liked this course:
+
+1) Professor Burgin encourages students to participate in class by giving extra credits to students who answer questions during the lecture. Most of the time, those questions were not difficult or tricky--if you are paying attention, you will be able to answer. This made me preview/review materials more than usual and I ended up studying a lot more.
+
+2) He is very patient with students when they ask questions. He didn't seem to mind spending lots of extra time answering questions and explaining things again and again, especially during the break and office hours. I went to ask questions many times during office hour and he was always extremely nice and kind. He genuinely cares about students. Not many professors are willing to spend hours after class discussing lecture materials but he is. I always felt welcome whenever I went to ask questions to him.
+
+3) He allows us to bring our note to exams as long as it's handwritten by you. He said that he believes people learn things when they are writing it down. He even said he wouldn't mind if a student rewrites the entire textbook by hand and bring that to the exam because that student must have learned a lot through the process. I liked this policy because being allowed to bring a cheatsheet reduced the stress of taking exams. His exams were not that simple though. Even if you have all the lecture notes, you wouldn't be able to answer all the questions on the exam if you don't understand the concept well. The difficulty of the exams was fair, especially because we could reference our notes during the exams.
+
+It goes without mentioning that he is very knowledgable and intelligent. I am so glad I took this course with him. One last thing: I did not confirm this with the professor, but I think he gives students lots of partial credits on the exam if you show your work. I felt like he values how you approach the problems to which you don't know the perfect answer. So, on exams, even if you don't know a complete answer, you can still get a pretty good score as long as you show your work and explain why you think a certain algorithm would work along with the potential flaws of it. I really recommend you to take this course with professor Burgin. He is not an easy-A professor, but you will learn a lot from him!
+
+--- review 97588 (Summer 2018 | Grade: I | Aug. 16, 2018) ---
+Writing this before grades have come out so no grading bias. The super long review from Summer 2016 is ABSOLUTELY on point. I ABSOLUTELY DESPISE this man as a professor. For starters, he's NOT even from the CS department but from the MATH department. HUHHH??? So he doesn't even know that looking up in a hash table is O(1). My friend also got docked off 7 points on the midterm because he used a stack for DFS for traversing a graph and you know what this CLOWN told him? "When you're driving, you don't have a stack with you". What the FLYING F**K is that supposed to mean??? Ok so I guess you don't have a stack when you're showering, taking a S**T, working out, ... so much for real life applications of data structures ehh? But unfortunately this isn't the only time he showed himself as a HOLY TROLL. When a student asked about the format of the midterm, he replied "It's on paper you write the correct answer with a pencil." His dumb antics aside, he skipped through SO MANY SECTIONS of the book on fundamental algorithm paradigms (greedy, divide and conquer, dynamic programming), instead spending a week on Gale-Shapley, going off on tangents about the history of mathematics and Latin, or giving rigorous proofs that he never tests you about anyways. How can you call this class an intro to algorithms when you barely scratch the surface of basic (and very practical for tackling the likes of LeetCode questions) algorithmic paradigms? Homework specs were vague (even worse than Eggert's 35L specs which weren't that bad honestly); HW2 had an impossible question that the TAs didn't even know how to do and everyone scrambled to write whatever bullshit they can for the proof part. Midterm was a joke final was brutal though. To make matters worse, it takes him decades (or never) to respond to emails and it took him 6 weeks for him to give us back homework 1 (the class is 8 weeks long for summer session). Ok so I guess we're supposed to "learn" from the homeworks but you won't let us find out what we did wrong so I can mess up on huge portions on test questions forgetting to include whatever BULLS**T excuse you pull of your A** when I come ask you about random point deductions??? Taking CS180 during the summer is now one of my biggest regrets as I came out with minimal improvement on my algorithms skills even though I took a class that was supposed labeled "Intro to Algorithms". Please don't let his easiness reviews fool you I should have taken this with either Sarrafzadeh or Meka during the regular quarter. Oh and did I mention, the class is graded on a straight scale and he doesn't give out plusses and minueses. It's only through these kinds of horrific experiences that you come to cherish teachers like Smallberg and Eggert (yes even Eggert). UCLA: please stop hiring clowns from the local circus I think they're better at juggling oranges than teaching intellectual subjects like CS.
+
+Oh and @the guy who wrote the review on Oct.25 2018 change your shirt dude rumor is you've been wearing it for the past 3 years without washing it

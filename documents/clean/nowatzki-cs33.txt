@@ -1,0 +1,143 @@
+# Anthony Nowatzki — COM SCI 33
+# https://www.bruinwalk.com/professors/anthony-nowatzki/com-sci-33/
+# 30 reviews
+
+--- review 104453 (Fall 2019 | Grade: B+ | Dec. 20, 2019) ---
+CS33 is a pretty hard class but Professor Nowatzki is an amazing professor.
+
+Content/Lectures: The content of this class is very different from CS31 and CS32 (which is really a continuation of CS31) but I do think that I did learn some valuable things from this class. This class is essentially about dissecting the layer between software and hardware and connects the commands you type with the keyboard to what is actually happening inside a computer (somewhat). Professor Nowatzki is really passionate about this class because the topic is relevant to his research. As a result, he is extremely knowledgeable. He uses slides during lectures, which he will put up. To be honest, I found the class to be a bit fast-paced, as a lot of material requires further thinking and trying to understand why things work they way they do. It is HIGHLY recommended to read the textbook before class (which I didnt do, but I did find the textbook helpful for when I was looking at the slides on my own but couldnt understand some concepts), so that you will have an easier time following along in class. It is really easy to be lost during lecture, but I would highly highly recommend staying engaged (once again, by reading textbook beforehand, even skimming helps) and asking questions if you have any. For my quarter, lectures were mandatory for participation and the professor enforced it by having "pop quizzes" randomly, which is an online poll that you have to fill out during lecture. There were 3 in my class.
+
+Discussions/Participation: I personally didnt find discussions really helpful, but it involved the TA going over again the content from the past week and then the LAs going over a worksheet. This quarter, discussion was made mandatory and enforced with an online poll every section. However, in past quarters, discussion was not mandatory and there was homework that was checked for completeness instead. I'm not sure if this will change for future quarters
+
+Projects/Labs: The projects are actually really really manageable, in my opinion. The first one, data lab, took a lot of thinking and a lightbulb going off in my head before I figured it out. The bomb lab and attack/buffer lab I actually found to be really fun. The malloc lab was infamously hard for having bugs and seg faults, but during my quarter, there was a much easier solution and, as a result, many people (including me) were able to complete it without that much difficulty. I'm not sure if the test cases will be changed, because that simpler solution is very dependent on the test cases given and it might not work as well for some test cases. After the malloc lab, the last one, thread lab, is a breeze.
+
+Exams: One thing I really like about Professor Nowatzki is that he has past exams and full solutions that he provides as practice. However, those dont cover all the types of the problems and concepts that may be covered for your actual exam. Not that he will ask questions about things you've never learned or hes never talked about, but more like, just because you see bomb lab questions on two past exams doesnt mean you should expect a bomb lab question to appear on your exam. However, his exams are pretty doable and fair (in retrospect).
+
+Piazza: Both Professor Nowatzki and the TAs are very active on piazza and will answer questions very quickly.
+
+Extra Credit: Professor Nowatzki gives extra credit on almost every lab and on both midterm and final exam!
+
+ALSO, THIS IS KIND OF IRRELEVANT TO THE COURSE, BUT PROFESSOR NOWATZKI IS AN AWESOME PERSON. HE IS FUNNY AND I HONESTLY LOVE READING HIS REPLIES ON PIAZZA.
+
+Overall, would recommend.
+
+--- review 127424 (Fall 2022 | Grade: A- | Dec. 28, 2022) ---
+I have taken CS33 with both Nowatzki and Reinman, and IMO, Nowatzki is a more engaging lecturer and overall helpful professor. The class consists of about five labs, one midterm, and a final. You have two weeks to complete each lab and all the TAs are AMAZING, they are always willing to help.
+
+Professor Nowatzki uses slides and thoroughly explains every concept, taking his time to answer every question thoughtfully. I highly recommend taking this class with Tony.
+
+--- review 113330 (Fall 2020 | Dec. 27, 2020) ---
+This class is much harder than CS 32 if you aren't used to reading the textbook or taking very conceptual tests. Honestly I hated this class, full disclosure, but it wasn't because of the TAs or Prof.
+
+Good Stuff: 1) Tony is cool 2) The class is pretty fairly graded, except for the bad stuff. 3) The textbook is helpful
+
+Bad Stuff: 1) Discussion sections. They tried something new with making worksheets mandatory and having different grading schemes, and I was not a fan. I think either make discussions mandatory, worksheets mandatory, or just chill. Having two sets of students learn at different paces was chaotic and unhelpful.
+
+2) Malloclab. It kind of sucked. I did learn and will never forget how malloc() works, though. Please start this one earlier than you think is necessary. SEGFAULT.
+
+3) MC questions on the final/midterm have multiple answers, all or nothing credit. The MC was worth a lot on both tests and also was incredibly easy to ruin your grade on even if you knew the material.
+
+4) Slow af servers. The servers were DYING when we did the Threadlab / Malloclab. Please someone stick a new Xeon in Lnxsrv06 and put it out of its misery. Test your stuff early else risk testing it at 5am.
+
+--- review 104851 (Fall 2019 | Grade: A | Dec. 24, 2019) ---
+Loved Tony with all my heart!!! Literally the one of the best professors I've had at ucla. Super responsive on Piazza and always stops to answer questions in lecture. The material in this class is pretty hard at times but Tony made it understandable. He has extra credit on all of the labs and tests so you can easily make up some lost points. I would definitely take classes with this professor again no doubt.
+
+--- review 104179 (Fall 2019 | Grade: S | Dec. 18, 2019) ---
+The professor lectured off his powerpoint presentations, however they were often confusing and it was hard for me to stay engaged in class. However, his tests were fair due to the curve and extra credit and most of the material was covered very well in the textbook. A note of advice, the concepts are much harder to grasp then cs 31, cs 32, but the labs themselves are not that bad once you understand the concepts, unlike CS32 which just took up a ton of time.
+
+--- review 120203 (Fall 2021 | Grade: NR | Dec. 12, 2021) ---
+CS33 is a difficult course that's not usually intuitive to most students, but you have to take it anyway so you may as well take it with Tony. His course is objectively well-structured, clear in its expectations, and forgiving grades-wise.
+
+Labs account for 40% of the grade, the midterm 20%, the final 30%, and the remaining 10% amounts to just showing up to section. The lab specs are clear, and they're honestly even fun a lot of the time. Previous reviews ranting about the difficulty are antiquated since he replaced malloclab with a different, straightfoward lab. If you have any trouble, one trip to his office hours will probably clear it up. There's even a bunch of extra credit on the labs if you're clever. In conjunction with the free 10% for attending section, that's 50% of your grade that should be in at least the mid-high 90s.
+
+Exams are fairly difficult, but that's to be expected. Again, he offers loads of extra credit (usually around a dozen to two dozen possible extra points). You have to take this class anyway. You'd do well to take it with Tony.
+
+--- review 146448 (Fall 2025 | Grade: NR | Dec. 12, 2025) ---
+I don't get why people like this professor so much. Lectures were not clear, at the end of the quarter, the lecture room was almost empty. The textbook is great!
+
+Not a difficult class to get a good grade though. Good curve, but you probably won't need it anyway, as the subject is not difficult
+
+--- review 141000 (Fall 2024 | Grade: A- | Dec. 11, 2024) ---
+I feel out of all the professors who teach CS33, Tony is probably the best one imo. While his final and midterms can be tough, his is very fair in his grade distributions, with around 50% of the class getting an A- or above. Tony's lectures were good but I felt in person he would move too fast for me to keep up, so I typically just watched the recordings. The labs were pretty easy compared to CS32 and CS31 labs in my opinion, but they are definitely more conceptual and require an in-depth understanding of the material. The most "annoying" part of this class is that discussions are "mandatory" -- are 10% of your grade but skipping them increases weightage of final from 40% to 50% -- but I actually found the worksheets, my TA, and LA very very helpful. Regarding the exams, they were very conceptual and a lot of questions were all or nothing, but again his curves are very generous. All in all, hard but fair course. ty tony :))
+
+--- review 130404 (Fall 2022 | Grade: B | April 3, 2023) ---
+Nowatzki is an amazing professor (and an even better Overwatch player). He is super kind and made this class much more bearable. The actual content of this class is wildly different from CS31 and 32, so don't come into 33 expecting to use Xcode or anything like that. You will literally only write like 30 lines of code over the entire course. Everything is very conceptual and you actually need to understand the concepts to apply them. Nowatzki is also very VERY generous with grading and curves the class and tests a ridiculous amount. It is nearly impossible to fail this class and considering the material, that is a miracle. TLDR: take Nowatzki because he is the best 33 professor to ever exist. Also shoutout Aditya! (the best TA ever!)
+
+--- review 128534 (Fall 2022 | Grade: A | Feb. 22, 2023) ---
+Tony is just amazing. I'm hoping he teaches M151B one day.
+
+--- review 128196 (Fall 2022 | Grade: A | Feb. 3, 2023) ---
+Tony is undoubtedly my favorite professor at UCLA. He is very passionate about the material and makes lectures very interesting and engaging. Projects take a lot less time than CS32, although the material is a bit harder conceptually. His exams have low averages, although don’t be worried, I got C’s on both exams still very comfortably got an A in the class. There is a lot of extra credit on exams and projects, and office hours/ discussions are super helpful.
+
+--- review 127846 (Fall 2022 | Grade: A- | Jan. 10, 2023) ---
+Tony is an amazing professor and person. He is super helpful during office hours. The TAs are also really helpful for projects. For exams, make sure to do the practice problems.
+
+--- review 127786 (Fall 2022 | Grade: A+ | Jan. 8, 2023) ---
+Tony is the GOAT and I mean it. Best class I have taken at UCLA. He is an extremely good lecturer and he will explain things in a way that makes sense and will spend time helping students understand in class, He has amazing slides as well that are super useful. Personally, I did not read the textbook as I feel everything he teaches in class and in discussion is sufficient (except perhaps you should know the basics of C programming going in - malloc, pointers, strings, etc: be able to print "Hello world!" with a dynamically allocated (malloc) string and you are good). He is for sure the BEST CS33 professor you could ask for.
+
+--- review 127179 (Fall 2022 | Grade: A | Dec. 18, 2022) ---
+This class is one of the hardest classes I have taken at UCLA. The professor is a good teacher, however, he covers his slides so fast that I couldn't take notes during lecture or I would fall behind. Instead I used the recordings which were much more helpful to me since I could rewind if I did not understand something and also double speed the lectures. CS33 exams require knowing all exceptions, having a detailed understanding of all concepts and also having a higher level understanding of how these concepts work when combined together. Tony can convey these ideas in his lectures, however, I felt like I was still missing a lot of concepts so I always read the textbook chapters he assigned before the midterm and final. I also reviewed the exam slides because exams are usually based on what are covered on the slides. But if it were not for the textbook I would be toast on both the exams. The labs are challenging but doable. After bomb lab, the labs get easier.
+
+--- review 127170 (Fall 2022 | Grade: A | Dec. 17, 2022) ---
+Tony is a legend. TA Salekh is even more of a goat and is super helpful and carried me through class. Though lectures were a bit dry, I learned a lot from this class and I would definitely take again. First lab is kind of hard but once you pass that, it is okay. Exams are pretty hard but curves are generous. As long as you study everything, you should be fine.
+
+--- review 126050 (Fall 2022 | Grade: I | Nov. 14, 2022) ---
+Tony is forever the goat for this class. Tony makes this seemingly daunting class extremely simple and easy to follow. Of course, you will be lost during lectures (because the material is so difficult), but the logistics of this class are fantastic. Call me crazy, but I might take cs m151b in the future only because Tony made this class kinda lit. Still hard af tho.
+
+--- review 125849 (Fall 2022 | Grade: B+ | Nov. 3, 2022) ---
+I really liked Professor Nowatzki! He's a fair professor and his lectures are engaging, even if the subject matter can be complicated. The projects don't take too much time and can actually be really fun with the scoreboards and everything. The class is very heavy on material, however, so make sure to stay on top of your work!
+
+--- review 122557 (Fall 2021 | Grade: A | March 14, 2022) ---
+Pretty good class. Midterm is mostly assembly based problems (tracing through everything to figure out what the program outputs). Average is roughly 60% for that midterm even after curve, but I'm pretty sure the professor curves the scores even more when doing final grades. Final is more oriented towards things like cache and memory mapping, and the average on that one was around 75-80% after curve. Projects are interesting (they got rid of malloc lab), and shouldn't take too much time compared to CS32 projects.
+
+The lectures are fun and interesting too.
+
+--- review 120861 (Fall 2021 | Grade: B+ | Dec. 22, 2021) ---
+Tony is a great professor, and super nice guy. His slides are also pretty quirky which is entertaining. If you sit in the front of the lecture hall and pay attention to lectures you will learn a lot and studying for exams will be a lot easier. Going to office hours was super helpful for me since he will sometimes give direct hints about how to solve the labs. They gave the option to attend discussion and get credit for effort on the weekly worksheets or not attend discussion and get credit for correctness. I would recommend going to discussion since the TA's are very helpful and you don't have to spend your Fridays hashing out the worksheet you forgot to do. This was my hard class this quarter and I literally spent 3 entire days studying for the final exam, but it was all worth it. Tony gives past exams as practice so definitely do those when studying.
+
+--- review 118038 (Fall 2020 | Grade: A | June 14, 2021) ---
+This class was pretty difficult and a lot different from CS 31, and CS 32, focusing more on low-level computer hardware and programming concepts. There are five labs in total, which are pretty reasonable and help solidify class topics. The malloc lab is really difficult, and I would definitely recommend starting it as early as possible. The textbook isn't necessary, as Professor Nowatzki is a great lecturer and has informative slides.
+
+--- review 115351 (Fall 2019 | Grade: A | March 7, 2021) ---
+I want to become Tony when I grow up
+
+--- review 114355 (Fall 2020 | Grade: P | Jan. 7, 2021) ---
+This class is very difficult and Professor Tony speaks really fast. Malloc Lab is hard. Final exam is way more difficult than the midterm.
+
+--- review 113768 (Fall 2020 | Grade: A | Dec. 30, 2020) ---
+Lectures: lectures are very fast paced and pretty unforgiving. reading the textbook before lecture probably helps (he outlines the corresponding sections to the lectures), but if you're lazy, looking at the slides probably help too. I think most people agree that the lectures are really fast, but honestly I don't really think it's Tony's fault. The class is just super dense and there is so much new material. But Tony is pretty passionate and knowledgeable about the area, so he's definitely a great option for cs33.
+
+Discussions: discussion was optional. he had a duel grading scheme so if you went to discussions and submitted a worksheet (graded on completion), then you can get 10% of your grade to be discussion worksheets. if not, then the midterm and final will be worth a little more. discussions mostly depend on your TA, so hop around and find a good one if you are not happy with your current one.
+
+Labs: the labs are still pretty time consuming. they're definitely different from cs32 projects (manipulating bits, looking at assembly), but honestly still take alot of time. however, he offers a lot of extra credit through labs, so that's pretty nice too. you might've heard about the malloc lab, which is definitely earns its spot for the being the notoriously hard lab. just start early and make sure you understand the concepts.
+
+Midterm/Final: the exams were pretty difficult, but you get plenty of practice exams which are helpful. he has multiple choice questions that can have 1, multiple, or no answers; you have to get it completely right to get the credit. there are also extra credit questions that are usually based on a lab. since the exams this quarter are open note and open internet, they might have been a little easier, but tony knows that and probably writes the exam knowing you have the internet.
+
+Overall, pretty interesting class conceptually, it's just really dense and fast paced. However, tony is really funny and will meme you on the piazza when given the chance. be sure to meme him back by writing your posts in the form of a haiku (he is a renaissance man okay)
+
+--- review 111974 (Fall 2020 | Grade: A | Dec. 6, 2020) ---
+Seems like it's generally a pretty difficult class, but Professor Tony is a good guy to teach it! My advice is to get started as early as possible as the labs, and to review anything you may have glazed over in lecture - he moves pretty fast so it's important to keep up. He is very active on piazza (a message board) which is super helpful. One thing to be warned of - his tests always contain a multiple choice section that may have multiple right answers, and you have to select all of them in order to get any credit on each question, most students bomb that section.
+
+--- review 108309 (Fall 2019 | Grade: A | May 7, 2020) ---
+Really nice guy, doing his best with some ~dense~ material. Yugo Watanabe is the best TA on the planet...
+
+--- review 105169 (Fall 2019 | Grade: A | Dec. 27, 2019) ---
+CS 33 itself is not an easy class. But taking it with Tony makes my life a little easier. I don't think there is a better professor for this class unless you love Eggert.. Anyways, Tony is super passionate and his assignments are doable. There are some strange questions on exams like word games but still, they are doable. Questions posted on Piazza can always get an answer really quick. AND in the last lecture, he used 10 minutes to sum up the entire stuff of this quarter which is REALLY cool!! He gives extra credits which provides a bigger chance of getting a good grade. Actually I messed up my midterm totally, but there's still a chance to get a good grade.
+
+One thing to watch out: I don't think he is doing this in his previous teachings but this quarter participation counts in discussions.
+
+--- review 105109 (Fall 2019 | Grade: A- | Dec. 26, 2019) ---
+I didn't really like the presentation of the lectures: very much reading off the slides although with helpful explanations. The slides, I hate to say it, use one (1) boring font (Calibri) and have a lot of words on each. I do wish I paid more attention or tried harder to in class. Reading the slides on time and carefully while using the textbook as a complement will help a lot in this class. Start your labs early. The malloc lab is tricky. I scored less than 40/100 for malloc and didn't turn in the thread lab, but did well on the tests which balanced out. Know your strengths: taking the exams (which were open book this quarter), or doing the lab exercises. If you get the textbook in a physical copy which you can bring to the exam, know how to use the contents page and index. I really liked the trigger warning on zombies, although I didn't need it.
+
+--- review 105007 (Fall 2019 | Grade: A | Dec. 24, 2019) ---
+Nowatzki is a pretty engaging and relatable dude (more on that later), but his lectures were hard for me to follow, since the slides don't exactly make sense on their own and he talks pretty fast. Because of this, I suggest doing a quick look through the slides right before lecture. Also, I would not rely only on the slides when doing test review. I highly recommend taking notes during class because Nowatzki sometimes has review questions on his slides that he doesn't put the answer to on the slide. He also does a lot of explaining on each slide that you won't remember unless you take notes. Otherwise, I would recommend reading the textbook or finding alternative resources.
+
+His exams are really hard. There's multiple choice questions with multiple correct answers, and you don't get any points unless all the correct answers for one question are all checked.
+
+He's also a troll and his exams will make you wonder why the heck he made you answer this. He also trolls the class Piazza page with memes and funny student answers from the final.
+
+--- review 104425 (Fall 2019 | Grade: A | Dec. 20, 2019) ---
+Conceptually, the material in CS33 was a lot tougher compared to CS31 and CS32. However, Tony made the class really enjoyable. He's one of the nicest professors I've ever had at UCLA and would occasionally post memes/troll on Piazza. He was also super helpful in office hours and was really receptive to questions as a whole. Because of this, I actually ended up enjoying my experience in CS33. I personally struggled to understand the lectures because the material was sometimes too deep for me, but after going to discussion and reading the textbook, things seemed to slow down. 10/10 recommend going to discussion (especially Yugo's) would recommend taking this class with Tony.
+
+--- review 104420 (Fall 2019 | Grade: A- | Dec. 20, 2019) ---
+the professor is really nice but trying to understand lecture off slides is pretty difficult and he goes really fast. I suppose it would've been better if I had read the book before lecture but the book is so dense and there's so much to read... definitely going to discussion under yugo was super helpful because he would take the time to explain things, go over examples and draw on the board and talk to us rather than going off slides. you're given a lot of time to work on the labs and the prof is really nice and occasionally trolls you... i still ... i can't... thank you piazza

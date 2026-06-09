@@ -1,0 +1,99 @@
+# Amit Sahai — COM SCI 181
+# https://www.bruinwalk.com/professors/amit-sahai/com-sci-181/
+# 16 reviews
+
+--- review 99797 (Winter 2019 | Grade: A+ | March 22, 2019) ---
+What an amazing experience CS181 with Professor Sahai was. If you like mathematics, you are in for an absolute treat. Professor Sahai, in his own words, conducts the "advanced mathematical version" of CS181. Anyone who wants to take this class must be prepared to invest a considerable amount of effort. But the rewards are entirely commensurate with the effort.
+
+Professor Sahai's lectures involve extensive interactions with students and opportunities abound for extra credit. The homeworks, midterm and exam are all very interesting, and several questions are challenging. Some of them really require meditation and contemplation over the course of several days, and are not at all the type of questions that can be solved in one sitting of a few hours. Several ideas only came to my head while I was in the shower, walking around campus, or eating dinner. These ideas require time to germinate and develop. This is how mathematics is supposed to be done.
+
+This was by far the best CS class I ever took at UCLA. And Professor Sahai was the best professor I encountered in CS.
+
+--- review 99012 (Winter 2019 | Grade: A+ | Jan. 11, 2019) ---
+Let me tell you something, boys and girls. Idk why the top review is from like 2012, but Sahai in his current form is a beast of an educator. Sahai is one of the few lecturers I can recommend for anyone looking to actually make the most of their CS education. If you just want an ez A, you should avoid his class. But if you actually care about the learning computer science, look no further. Sahai ticks several very important boxes:
+
+☑️ Supreme command of the subject matter. Sahai's class organically develops from student input. He is able to dynamically take student suggestions and run with them on the fly, while maintaining good pedagogical direction.
+
+☑️ Interactive lectures. You feel like you really make a creative difference when you speak up in class, rather than parroting some preset answer. With the first point, this means that the overall direction of lectures is mediated by Sahai, but the examples used to demonstrate and elucidate concepts come from the floor.
+
+☑️ Nice & enthusiastic. The top answer says Sahai can be condescending, but I haven't seen this so far. Maybe he got better at being nice. He will repeat explanations that you don't understand, and often from a different angle to make it more likely that you understand. Also, you can just feel his bubbly enthusiasm for the subject matter when he speaks.
+
+Note that his class is the "advanced mathematical" version of 181 [sic Sahai]. If you truly feel no love for theory, or if you just need to take it easy this quarter, you should probably take it with someone else. I heard the other lecturers are also really good. But if you can handle some math and you want to go hard, I place Sahai among the legends of UCLA CS educators. You're paying fat stacks to go here. Do yourself a favor and make the most of that money and your time.
+
+--- review 116020 (Winter 2021 | Grade: A | March 24, 2021) ---
+I took this class as a senior, and I can say that CS 181 with Prof. Sahai is easily the best course I've taken at UCLA. (And yes, that does include CS 32 with Carey Nauchenberg.)
+
+Automata theory and computability probably won't be useful in my career, but I still think this is one of the most valuable classes in the CS curriculum at UCLA. This class will make you a better problem solver. A lot of the questions in this class are intuitive and easy to understand, but translating ideas into formal solutions can be so, so hard. If you've ever attempted Leetcode questions and thought "The solution seems so obvious...but I just don't know how to do it," you know this feeling. Sahai's class teaches you how to isolate intuition, address its shortcomings, and then use it to guide you toward a correct solution. Frameworks and languages will become outdated, but this process of dissecting a problem is something any software engineer can always use. If you have any interest in solving challenging problems in your career, this class is a must-take. It's the equivalent of a pro athlete going to the gym to lift weights.
+
+- Lectures in CS 181 are unlike any lectures in the CS department. They're all student-driven, so students ask motivating questions and others can respond and drive the discussion. Extra credit is awarded for questions and answers (both right and wrong!). Trust me, I skip most of my lectures to watch them at 2-3x speed, but I looked forward to going to CS 181 every week. I've yet to take a class with a professor better at explaining difficult concepts than Sahai.
+
+- Problem sets are difficult but highly rewarding. There's plenty of extra credit -- lots of extra credit homework problems and you get an automatic 5% (maybe 10%? I forgot) extra credit for typing your solutions in LaTeX. I would recommend looking at problems as soon as homework assignments are assigned, and then just let them sit in the back of your head for a few days. There are 6 problem sets, most of them usually 2-3 questions long, but they can be pretty hard.
+
+- Grades are curved without extra credit, and then EC is applied. This makes the average closer to a B+/A-.
+
+- Stick out the first two weeks! I was close to dropping the class because deterministic finite state machines are pretty boring, but it ramps up quickly.
+
+--- review 1631 (March 31, 2012) ---
+Terrible professor.
+
+--- review 137624 (Winter 2024 | Grade: B | April 5, 2024) ---
+Professor Sahai is a kind, engaging professor. He is genuinely excited to dive into the theory of computation during every class, which creates a very positive learning environment. The class is difficult and heavily proof-based. The homework is lengthy but doable if you have friends to collaborate with, which is strongly encouraged by the professor. There are ample opportunities for extra credit. I typically don't have perfect attendance, but I made sure to attend every lecture for this class.
+
+--- review 137183 (Winter 2024 | Grade: A+ | March 31, 2024) ---
+Lots of the reviews hate on his class because it focuses more on "theoretical mathematics" rather than applications. This is absolutely true. If you hate theoretical math then you might want to consider taking an easier prof this class. Although, I'm not sure what they expected from a class named "An Introduction to Computability THEORY"...
+
+That being said, Prof. Sahai is hands down the best lecturer on campus. It is not a traditional lecture where the professor bestows you divine knowledge that was discovered by the forefathers of computer science. Instead, Prof. Sahai structures the class so that you slowly and methodically uncover this knowledge. He conducts his lectures in a socratic style and is always looking for student ideas to guide the lecture. Because of this, the lectures are super engaging and interesting through cycles of trial and error with lots of interesting ideas from the class. You'll get to discover why some of the ideas work while others don't.
+
+It's important to note that this is the "unofficial honors section" so Prof. Sahai expects a deeper understanding of the content. His exams are certainly more difficult than other sections and not super traditional either. They don't test the materials in class directly. Rather, he makes up questions very similar to the content done in class, but with a bit of a spin. As a very simple example, suppose that you learned about how to add 2 real numbers in class. The exam might give you the definition for imaginary numbers and then ask you to add 2 imaginary numbers. You'll be able to do it with what is learned in class, but it's going to be something new that is similar to content in class.
+
+There are lots of extra credit in this class: anytime you contribute to the lecture and there's always EC problems on the exams. Final exam is take home on week 10.
+
+--- review 135011 (Fall 2023 | Grade: B | Jan. 9, 2024) ---
+Light workload, homeworks were mostly completion graded but exams were difficult.
+
+--- review 124361 (Winter 2022 | Grade: A | June 10, 2022) ---
+I honestly loved this class. I wasn’t expecting to at all, but I think that if you like math you will have a good time. I also think that Sahai is the best lecturer I’ve had at ucla (especially within the CS dept). I never missed a lecture because I was genuinely excited and interested to learn the material. The homeworks are meant to be difficult and did take up a fair amount of time, but I feel like they were graded leniently because averages were quite high.
+
+--- review 122947 (Winter 2022 | Grade: C+ | March 24, 2022) ---
+Ignore all other reviews for this class, as most of them are either outdated or from math people who love sitting at their desks for 10+ hours a week thinking about theory. This class, if not already known, is the advanced mathematical offering of CS 181, meaning that instead of studying application, you study the theory of this class. The lectures are "lead" by students, which often involve questions not pertaining to curriculum and you often go off on tangents. Additionally, this class format creates an environment where you do not know what you need to learn and what is irrelevant, often making the class even harder than before. Also, don't get me started on the homework, which by his syllabus, takes 15-20 hours each. Summary: Avoid this class with Sahai at all costs unless you like torturing yourself with math theory.
+
+--- review 99725 (Winter 2019 | Grade: I | March 20, 2019) ---
+Loved taking this class with Pf. Sahai. As other reviewers here say, this is the "advanced mathematical" offering of the course. Going into the quarter, I was terrified since I had convinced myself I didn't like math but the material ended up being a truly refreshing blend of math, CS, and general logic and Professor Sahai's lecture style (as detailed in greater depth in other reviews) made me never want to miss a lecture. Exams were difficult but doable and I really liked the take-home nature of the final which made it a relatively stress-free experience (it made the difficult problems fun rather than scary). All in all, one of my favorite courses in the UCLA CS major. Just be ready to put in a good deal of effort.
+
+--- review 92078 (Winter 2017 | Grade: A | March 31, 2017) ---
+Great professor. The class has a lot of confusing material that demands a lot of time and thought, but Prof. Sahai leads students through a kind of investigation, piecing together the foundations of automata theory one step at a time. I've had a lot of other professors try this and fail, because they're still fundamentally focused on textbook material, but Sahai will entertain every passing inquiry, sometimes coming to new proofs and conclusions not found in any of the provided texts.
+
+In a similar vein to his lectures, assignments and exams will ask you to consider hypothetical machines and scenarios and make judgments about them. Other professors teaching this course might simply ask for the FSM diagrams of regular expressions, but his exams aim to challenge and entertain based on the approaches outlined in class. The final is take-home, so you'll have plenty of time to ponder and puzzle over the provided problems, which will range in difficulty from the trivial to the nearly incomprehensible. Mental blocks can be resolved by attending office hours (TA or professor, though be warned Sahai himself tends to shy away from a direct answer, preferring to clarify concepts he thinks you might not have understood) or collaborating with other students (for the assignments, not the final.)
+
+Sahai might stress the difficulty of the class's grading at the beginning of the quarter, but extra credit opportunities come by the boatload if you're willing to participate, and is applied after grades (without extra credit) are curved.
+
+--- review 2936 (April 1, 2012) ---
+Good
+
+--- review 47709 (March 31, 2012) ---
+I took this class in Winter 2012. This class is extremely challenging. However, I would say I learned the most in this class out of any other class.
+
+The review about lectures sucking is completely wrong. I guess whoever wrote that review only went to lecture once when we had a bad day. Sahai encourages questions in lecture by offering extra credit points for participating (1/4 percent per attempted answer) and very often the class as a whole will help solve the problem or derive the theorem's proof that Sahai is focusing on that day.
+
+The homeworks take about 10-16 hours a week. Start early! Sahai and the TA (Abishek) often repeat this and say that the only way to solve these problems is to read the book, go to lecture, collaborate with your classmates (but not plagiarize), and repeatedly bang your head against the problems until you have an epiphany. It's tough, but they're right. Once you solve a problem, you gain a pretty profound understanding of the material, and that's a really satisfying feeling.
+
+With that said, some of the homework problems are indeed rigorous proofs. Sahai warned us that the winter offering of CS 181 is a more challenging offering, and that we are expected to have knowledge of proofs. If we don't, he gives a link/guide on how to write proofs and different methods, such as proof by contradiction (the most common one in this class; just about every proof is with this method), unwinding the definition, proof by induction (also a common method), applying the Pigeonhole Principle, and so on. In addition, all proofs that Sahai does in the class and that Abi does in discussion are rigorous proofs, so you can learn by their examples.
+
+Discussion was an extension of lecture where new material was taught in addition to clarifying old topics. Abi also went over the homework a little bit but rarely gave hints.
+
+The midterm was easier than the homework, because we only got 2 hours to do it in class. The final was very challenging, but not unreasonable, and it was take-home format so we were given a week to do it. There is no collaboration allowed on the final.
+
+Office hours were very effective. No hints as to the kind of test problems to expect were given during OH.
+
+His curves are not that generous. I would say that he only gives about ~15% A's; even though everything busts their butt, most people will get B's. If you are looking for a cakewalk class, don't take Sahai. If you are looking to learn a lot, and maybe get a B even if you worked really hard, then take this class!
+
+--- review 2930 (March 12, 2012) ---
+He's a okay lecturer, or whatever, but he often asks for class input. The class usually just gives him blank stares, and when someone does answer his question, they are wrong 100% of the time. When he tells them that they are wrong, he says "No, that's not quite what we're looking for." And that's it. Occasionally, he'll say "Someone already said that" if you unintentionally paraphrased what someone else said, but the fact of the matter is that he provides little to no reasoning as to how we are supposed to correctly approach these problems. I, for example, came into this class with no experience with proofs and I can safely say that, having shown up to class every day, I still have no clue as to what makes a proof a proof. Is it the way I phrase it? What makes statement A any less "proofy" than statement B? He never addressed these problems in class, even though there is a large chunk of the class (75%+) that still doesn't know how to do proofs properly.
+
+Honestly, I think the reason his rating of "Is concerned" is just because of the way he talks to students. I, however, find it condescending, especially when he outwardly laughs at what the students suggest for proofs. Altogether, I would have gladly taken the class from a clam rather than from Sahai, as at least a clam wouldn't laugh at me when I make a suggestion for a proof.
+
+--- review 34637 (April 3, 2011) ---
+Absolutely fantastic professor. Every lecture was well prepared, organized, and interesting. Class was difficult but so interesting that students were encouraged to work their hardest. I would love to have this teacher for more classes.
+
+--- review 34230 (March 13, 2011) ---
+Prof. Sahai is a very good lecturer and has made CS 181 a breeze for us. He does challenge his students but he makes sure everyone can succeed if they want to.

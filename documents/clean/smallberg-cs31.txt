@@ -1,0 +1,143 @@
+# David A. Smallberg — COM SCI 31
+# https://www.bruinwalk.com/professors/david-a-smallberg/com-sci-31/
+# 30 reviews
+
+--- review 105041 (Fall 2019 | Grade: A | Dec. 25, 2019) ---
+Smallberg seems to have plenty of reviews already that give a pretty good gist of him and the class. Here are some things I'll emphasize:
+
+1) He does an excellent job of teaching the material, showcasing every detail, and making sure the class can follow along with him. 2) His lectures can get very dry, especially since they are almost two hours long. 3) He does not use slides. He just writes out different programs that illustrate what he wants to teach the class. This worked for me as it showed me the actual application of each lesson, but it requires you to take good notes. 4) Midterm 1 and 2 were combined this quarter and it was fairly easy with around a 90 average. 5) Final was more difficult than the midterm but still manageable. Average was around an 80. 6) Projects aren't too bad but there are a lot of them (7 in total) so just make sure to manage your time properly.
+
+--- review 113172 (Spring 2020 | Grade: P | Dec. 25, 2020) ---
+Dear professor Smallberg, I can certainly see why you received so many compliments in previous years. You are a great lecturer, making everything super clear. Your assignments were fine, some of them are very interesting.
+
+However, you are irresponsible. On week 10, we only get 4 out of 9 assignment grades, and the midterm grade was missing as well. Then, based on the first 4 assignment grades, you tell me my "estimated grade is B+". That's 2 HOURS before the deadline for changing grade type. So I changed this course to P/NP. Then you released the rest grades, I got 100 on all of them. At the very end of the quarter, I still do not know my midterm grade nor my final exam grade. You promised you would post the grade, but you didn't.
+
+I won't complain at all if I screwed it up myself. But your irresponsibility leaves my grade with a question mark. I received a P, but I had been wondering if it wouldbe A- or an A if I did not change the grade type. Incomplete information about grades is just RIDICULOUS.
+
+--- review 117342 (Fall 2020 | Grade: A | April 10, 2021) ---
+If your correctness score is 60 or below, it may not be because of a lack of understanding of C++, but something more fundamental: You ignored repeated admonitions in the spec and in class to avoid specific foolish mistakes, yet you made them anyway. Whatever your field of study is, you must fix this characteristic about yourself. No employer would dare hire someone who ignores repeated spoken and written directives: You'd pose a risk to the safety of yourself and others if you ignore safety rules, a risk to the financial health of the company if you ignore legal regulations, and a drain on productivity if your ignoring specifications causes you or others to devote more time later on to correct your mistakes.
+
+What's exasperating is that despite all that was said above, there will be people who will ask for a re-examination of their correctness score without saying which test case numbers to look at or without having tried those cases under multiple compilers or without running the Project 2 tester mentioned in FAQ #7. Those people are exhibiting the exact characteristic that may have caused them to make the mistake that cost them so many points: They don't pay attention to what they read.
+
+--- review 102958 (Fall 2018 | Grade: A | Aug. 29, 2019) ---
+Smallberg is an absolute legend. He probably knows more about C++ than Bjarne Stroustrup and Dennis Ritchie (whom he mentions a lot). This is class is one my all-time favorites! It's also quite easy if you're willing to put in the effort with a good attitude. If you took AP CS in high school, you're chilling.
+
+--- review 127660 (Fall 2022 | Grade: A | Jan. 3, 2023) ---
+I must say, Smallberg is NOT the hype that he is made out to be. While he is obviously a brilliant professor, extremely knowledgeable about the subject matter, and has his engaging moments, there are a few notable caveats in his teaching style I want to draw attention to. (Note: if you're a first-year CS or EE major, you basically have no choice but to take him, as he is the only professor for CS 31 in fall).
+
+Smallberg uses a flipped classroom style of teaching. He does a meticulous job of prerecording an entire quarter's worth of lectures that you watch on your own time, and the listed class time is spent in Q&A sessions. While I can see how some may like this, I thoroughly hated it, as the lectures were sooooo dry. In Q&A sessions (think about them like 200-person office hours), Smallberg is actually pretty funny: at the direct expense of an unfortunate few. He is not afraid to humiliate you in front your hundreds of peers if you ask questions that he deems "beneath" him, to the point where I would feel uncomfortable asking questions (even through I was fortunate enough to never be directly called out by him). It doesn't help that the class is 80% men, so I can only imagine the impostor syndrome my female peers could potentially have felt. Additionally, grading and curving is BRUTAL. The class is a war of attrition. There are no defined cutoffs for specific grades when the class begins; your projects and tests basically go into a black box that gives you a letter grade at the end of the day, so hoping and praying is the name of the game. Everyone is so smart that even the extremely difficult final was not curved. Despite getting a solid B- on the final, I was lucky enough to scrape by a 93%.
+
+--- review 103024 (Spring 2019 | Grade: A- | Sept. 14, 2019) ---
+As others said, the projects can be time consuming. Being a complete beginner, it took me several hours every day to complete the projects. Tests were hard for me and I completely tanked the first midterm, but pulled through for the second which saved me.
+
+Smallberg is a good professor who clearly knows a lot about what he teaches. Discussion sections were not helpful for me unless I had a specific question. Textbook was beneficial to me.
+
+--- review 102588 (Spring 2019 | Grade: B | July 3, 2019) ---
+Smallberg is a clear and helpful professor. He is open to questions, and is basically a walking CS dictionary. His lectures explain stuff very well.
+
+You will learn a lot in CS 31, especially if you have no previous experience. It is rewarding, but if you have no prior experience, it will be very hard. His tests have a strange format that takes getting used to, and I got absolutely hammered on the first midterm, scoring below the 25th percentile.
+
+I also spent more time in CS than the rest of my classes combined, which were Math 32B, Physics 1B, and Chem 30A. CS 31 is no joke if you're not a CS major.
+
+He curves generously, but people still get hammered in terms of GPA. CS isn't an easy tech breadth, and you should think before choosing a CS tech breadth.
+
+Finally, the book was kind-of useful.
+
+--- review 101022 (Spring 2019 | Grade: S | May 22, 2019) ---
+The workload is INSANE. The weekly projects would take me all week to complete, spending every moment outside of my other classes on them. Great class if you love computer science
+
+--- review 140036 (Fall 2024 | Grade: A | Oct. 22, 2024) ---
+if you know cs already and you're good at working by urself this is the class for u if not then maybe wait until winter
+
+--- review 134551 (Fall 2023 | Grade: A | Dec. 28, 2023) ---
+Prof Smallberg does flipped learning, so you watch his recorded lectures as homework (probably on 2x because they're usually 70-90 minutes long), and then come to his live lecture to ask questions if you have any (also Zoomed and recorded). So, after the first week of class, the lecture hall is probably around 15% filled. I attended a little under half of the live Q&A sessions (had conflicts the other times because of personal reasons), but I either joined on Zoom or watched the recordings for the rest of them, which I'd say wasn't really necessary for someone who didn't have questions, but I figured might as well let it play in the background while working on a project. So while Q&As can be still considered optional, definitely watch the recorded lectures and make it a habit so you don't get more than maybe a week behind on it because it will drag on and on unless for some reason you think you're super comfortable with C++ already in which case you should still just watch them anyway. There's no slides or anything, so you just have to rely on your own notes when you go back to study before an exam. Flipped learning requires accountability on your part, but I think I preferred it this way because it made my schedule more flexible for other things. Discussion section was alright for me. We had an ungraded worksheet to work on every week to review the concepts we covered, which was useful, but didn't make that much of a difference for me. The main things you get graded on are the projects and the tests. I found the tests incredibly straightforward and based off the lectures, so as long as you understand what's covered there, you're set for the tests content-wise. The projects are probably what takes up most of your effort in the course, and have varying levels of difficulty, but I didn't find them particularly challenging (though for context, I had many years of programming experience before this class, just not in C++), though they can take a while so definitely start early. And also, make sure to read the write-ups thoroughly because as Smallberg likes to laud, the project specs and associated FAQs usually covered my misconceptions and bugs when I was working on any projects. I think the biggest determinant of success in this course is attention to detail. Pay attention to everything and double and triple check everything especially on exams because small mistakes can cost a lot. Same for projects, but I'd assume that would be more built in and intuitive as to how doing the assignment works. There's an $89 online textbook that you have to purchase called a zyBook, because it's linked to online assignments that count toward your grade. It didn't do much to supplement my learning, but I wouldn't have minded reading it and doing its assignments if the book hadn't been so expensive, dammit. Least favorite part. Smallberg himself is hilarious. He really emphasizes the attention-to-detail part and will be pretty snarky when people ask him stuff he's already answered in the project spec or other write-up on the CS 31 website, but I find it funny and also fair. With that being said, don't be afraid to ask him stuff, whether about the content or about stuff that's affecting how you're doing in the course, because while you think you can mentally parrot off his response about being responsible and doing things on time or whatnot, it never hurts to ask, and he's a pretty reasonable professor. The CS 31 classes are mostly unified regardless of your professor, but overall, I enjoyed taking this class with Smallberg.
+
+--- review 124624 (Spring 2022 | Grade: A | June 19, 2022) ---
+Smallberg yyds
+
+--- review 124622 (Spring 2022 | Grade: A | June 19, 2022) ---
+yyds
+
+--- review 124621 (Spring 2022 | Grade: A | June 19, 2022) ---
+Professor Smallberg is my god!!!!!
+
+--- review 123899 (Fall 2021 | Grade: A | May 4, 2022) ---
+Definitely a great introduction to computer science. Smallberg is an excellent lecture who clearly knows about programming topics and how to explain them well. Most of the projects should not be difficult as long as you follow the lectures. The exams were digital when I took the class so I can't comment much on how they would be during an in-person year.
+
+--- review 122835 (Fall 2021 | Grade: A | March 22, 2022) ---
+berg is the best <3
+
+--- review 118501 (Spring 2021 | Grade: A | June 22, 2021) ---
+This professor is a mess. Grades were due, and we still did not receive midterm1, midterm2, or the final scores. A lot of students don't even know how they even got their grades since these scores were never given. In addition, professor returned our projects 4 weeks after the TA finished grading. I really don't know why he delays giving our assignments back, but he did it a lot ...
+
+--- review 117364 (Spring 2020 | Grade: P | April 12, 2021) ---
+SMALLBERG. This class was easily the toughest I've taken thus far, and really made me miserable but was also the reason I completely switched my major and am on the path to become a software engineer. He will make you suffer, but in the way that makes you feel so proud of yourself in the end and one million time smarter. He makes CS something that anybody can learn, but also makes you your best version of yourself as a student. His sarcastic and slightly angry demeanor(raging about the many common mistakes of past students) is hilarious and enjoyable to watch. Thank you Smallberg, you are one hell of a teacher!
+
+--- review 113982 (Fall 2020 | Grade: A | Jan. 3, 2021) ---
+tl;dr: yeah take this class
+
+Doesn't smallberg already have like 69420 reviews lol. Smallberg is fine, he taught well enough that you don't really need to go to discussions. (Most ppl skip discussions).
+
+Tbh if you already took ap cs (and remember it), this class is a breeze and mainly review. There are like 2 midterms and a final if im not mistaken, all of which ask you to write a small piece of code. Timing is decent, although if you havent taken apcs, you might run out of time. If you have, then you could probably finish the tests in like 1/2 of the time. Not really any hwk, just projects assigned every 1 or 2 weeks. Each project takes anywhere from 1 hr to 8 hrs to do, but you have a week to do it so its manageable.
+
+If you're a cs major, youre probably required to take this class anyways so just take it w/ smallberg. if you're not a cs major, you should still take it if you wanna learn an intro to programming. (although maybe consider cs30 if you have 0 prior experience)
+
+my only concerns is that my TA graded all of our stuff, and lowkey he was kinda picky. But after the first few projects, you know what your TA is looking for so its fine after that.
+
+If youre reading this and this helped you out, pls review ur profs!! itll help us all out uwu
+
+--- review 113091 (Fall 2020 | Grade: A | Dec. 24, 2020) ---
+I learned a lot about C++ because of Smallberg. Absolutely legendary in how clear and concise he is. Once I emailed him and his answer was 6 characters long: "FAQ #2". Smallberg's clarity really makes the discussion sections kinda obsolete. Start your projects early. The project specs are pretty clear. In Fall 2020, the tests were just coding and weren't as hard as the coding for the projects, just stay calm. Don't worry about the computer history in the beginning. Would take again.
+
+--- review 112448 (Fall 2020 | Grade: A | Dec. 19, 2020) ---
+Professor Smallberg is an excellent lecturer and did a fantastic job running this course online. This quarter, he used a sort of "flipped classroom" approach. Before each lecture session, we listened to a lecture video I believe he recorded last spring on a particular CS 31 topic. During the actual lecture, Professor Smallberg took questions from students regarding the lecture video, helping to clarify any misconceptions and providing additional insights on the lecture material. I really prefer this method, as it's much easier to come up with questions this way.
+
+Grading scheme this quarter: 66 % projects (7 in total) 7% zyBook homework assignments 2% short "responsibility assignments" 5 % midterm 1 8 % midterm 2 12 % final
+
+The projects were a bit time consuming (especially Projects 3 and 5), but were not too difficult. Smallberg's project specs are extremely clear and left me with no lingering questions. I actually spent a lot more time testing my programs and coming up with test cases than the actual coding. Make sure to spend quality time testing your program, especially with the random edge cases (ex: negative or zero array size). This quarter's project averages were extremely high (many of them had a median score of above 95).
+
+The exams this quarter were all open-compiler and consisted mainly of writing code. The midterms were very easy, and the final was a bit harder but not overly difficult. Professor Smallberg takes some time to grade exams (I still haven't received my midterm 2 and final scores yet). Hopefully they will come out soon. Note that the grade I entered for this review is the grade I predict I will get, as final grades haven't come out yet.
+
+Overall, Smallberg's teaching is super clear and thorough and he makes this class very well organized. Definitely would recommend.
+
+--- review 112202 (Fall 2020 | Grade: A | Dec. 15, 2020) ---
+Overall: I took AP Computer Science A in high school, so many of the topics weren't new to me, so this class was definitely not hard for me but I can definitely see that it would be more challenging for someone with no prior experience. I took this class online because of COVID, so his lectures were all uploaded beforehand and he spent the actual class time doing Q&A, which I ended up not really going to. His lectures were not super interesting but they are informative and I watched them on 2-4x speed. Overall, Smallberg is very willing to help. I emailed him at midnight one day with a question about my bug, and he answered within 5 minutes with a somewhat passive aggressive but nonetheless helpful answer. He can come off as strict, but he just wants to prepare his students for the future. Projects: Really weren't too bad; I usually finished them within a day, but start early just in case you run into bugs. Also pay attention to the specific requirements so you don't lose easy points. Exams: 1 hour, taken online so the exams were all writing code (no code tracing, etc.) which made it pretty easy.
+
+--- review 110708 (Spring 2020 | Grade: A- | July 28, 2020) ---
+Smallberg was great. If you've done any coding before this class will be a breeze, even though there's a solid workload. If you haven't taken coding before, take the class in the fall or spring when you won't be stuck in there with all the compsci majors. He moves faster during fall quarter.
+
+--- review 105037 (Fall 2019 | Grade: A | Dec. 25, 2019) ---
+Professor is extremely knowledgeable. He we’ll be able to answer nearly anything you throw at him.
+
+Unfortunately the lectures do tend to be boring and it’s difficult to stay focused for 2 hours.
+
+If you have prior programming experience, this is fine since you can kind of half pay attention to the lectures and soak up what you need for C++, and ask questions if you have any. Personally I had no C++ experience before (mainly prefer Python) but I still got what I needed from showing up to about 60-70% of the lectures and looking at online materials.
+
+If you don’t have prior programming experience, I don’t recommend taking this course. You will either do poorly or have to spend way more time than you’d want to, or both.
+
+--- review 91574 (Fall 2016 | Grade: A | Feb. 21, 2017) ---
+CS31 is an easy class if you keep up with the work and the lectures. Lectures are generally quite slow with Smallberg and you'll probably lose attention quite often. Smallberg is very precise and methodical and if you take note of most things you'll be fine.
+
+Reading the textbook is very helpful for picking up certain things that might be used on exams. I generally didn't listen in class but reading the textbook helped me catch up on all that I missed.
+
+Projects are generally quite easy and if you start early, you'll have no problems. Midterms and finals will be fine if you know your stuff
+
+Text: ********** if you want cheap for lower price
+
+--- review 119488 (Spring 2021 | Grade: A | Oct. 6, 2021) ---
+Petty petty little man. He rants about how we are all so incompetent and can't do simple tasks but his website lead to a 404 error for 3 days before he fixed it after many emails. He responds to simple questions by saying that we shouldn't be confused about basic things (but this is an intro class so that makes no sense). He is so disorganized and unclear. I enjoy CS and I did well in the class because the textbook was great, but Smallberg is an awful teacher and probably skins puppies as a hobby.
+
+--- review 104870 (Fall 2019 | Grade: A | Dec. 24, 2019) ---
+Lectures can be a little boring, especially since most people know most topics since fall quarter expects prior experience. He's occasionally funny but doesn't crack jokes often. He covers every scenario and error, but his clarity and detailedness are really helpful. The projects weren't too bad; first two were pretty easy. Project 3 was a pretty large jump from project 2. Projects 3-7 took anywhere from 2 to 8 hours (you have a week to finish each project). As long as you check your program for around fifteen minutes and use the test-cases he gives out to test your project, you can get A's on most projects. Midterm (usually 2 midterms but first was cancelled because of a fire) and final are pretty detail-oriented, the final more so. The bubbling scheme is a little weird and might take you a minute or so to understand.
+
+--- review 117455 (Spring 2021 | Grade: U | April 23, 2021) ---
+I actually dropped this class halfway through the quarter, but I thought to provide some comments. I received a very very low score on my project 2 that would make it impossible for me to succeed in this class. because I missed three hyphens. That's probably due to my own issue, but I thought there's no need to make people like me who received low scores feel worse --- the following are from the email the professor sent us: it may not be because of a lack of understanding of C++, but something more fundamental: You ignored repeated admonitions in the spec and in class to avoid specific foolish mistakes, yet you made them anyway. Whatever your field of study is, you must fix this characteristic about yourself. No employer would dare hire someone who ignores repeated spoken and written directives: You'd pose a risk to the safety of yourself and others if you ignore safety rules, a risk to the financial health of the company if you ignore legal regulations, and a drain on productivity if your ignoring specifications causes you or others to devote more time later on to correct your mistakes.
+
+--- review 119915 (Fall 2021 | Grade: A | Dec. 3, 2021) ---
+If your correctness score is 60 or below, it may not be because of a lack of understanding of C++, but something more fundamental: You chose to ignore repeated admonitions in the spec and in class to avoid specific foolish mistakes, yet you made them anyway. Whatever your field of study is, you should work to fix whatever caused you to do this. No employer would dare hire someone who ignores repeated spoken and written directives: You'd pose a risk to the safety of yourself and others if you ignore safety rules, a risk to the financial health of the company if you ignore legal regulations, and a drain on productivity if your ignoring specifications causes you or others to devote more time later on to correct your mistakes.
+
+--- review 147514 (Fall 2025 | Grade: C | Jan. 12, 2026) ---
+Be warned, this class is not good. At all. Professor Smallberg teaches in a flipped learning style and it's the most annoying thing ever. The video lectures are so dry and bland and the actual lectures are barley helpful at all. He's also an insane stickler for small details. I forgot a single space in the output and failed a project. One space. His tests are honestly fine, just pay attention to the small details. Other than that though, this class sucked. Good luck
+
+--- review 147259 (Fall 2025 | Grade: B+ | Jan. 3, 2026) ---
+It's a hard class if you don't manage your time well. Many students I know with extensive programming experience did poorly (although most didn't.) Test/project grading is kind of a black box. The concepts you learn aren't particularly hard, though.

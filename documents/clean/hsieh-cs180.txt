@@ -1,0 +1,129 @@
+# Cho-Jui Hsieh — COM SCI 180
+# https://www.bruinwalk.com/professors/cho-jui-hsieh/com-sci-180/
+# 30 reviews
+
+--- review 120511 (Fall 2021 | Grade: A- | Dec. 17, 2021) ---
+This class was very challenging to say the least. I noticed a pretty wide disconnect between the lectures and exams/homework. Overall, the homework assignments (4 total) were not too difficult and pretty manageable. The tests on the other hand were a different story. Even though we had 24 hours to complete each exam, I felt that the homework assignments weren't quite enough to prepare me for the difficult exams. Exams required very creative and clever approaches to solving problems. The mean/median on the final exam, for instance, were both around a 59.
+
+The grading on the homework/exams was pretty lenient for the most part, with notable exceptions for HW 4 and the FINAL. I felt that the grading suddenly became much more harsh towards the very end of the course, and I believe I'm not the only person that felt that way.
+
+Class was very poorly organized and a complete mess. Many questions on Piazza were left unanswered. The final grades were entered almost 4 days after the deadline.
+
+Overall, this class is still super important and useful. But please do yourself a favor and avoid this section of CS 180.
+
+--- review 121012 (Fall 2021 | Grade: NR | Dec. 25, 2021) ---
+First off, the other reviews from this quarter sum it up perfectly. Lectures were just barely enough to cover the content, and the administration was an utter mess. Extremely long waiting times for grading, large numbers of piazza posts unanswered. One would think that a course with 7 TAs might do better on this. Secondly, I have to reiterate how awful the final was. It's four questions which cover the second half of the course. As someone who got a close to 100% average on the homework assignments, I entered it with confidence, which was a mistake. The questions were far beyond the difficulty of anything covered in lecture or on the homework, and HARSHLY graded. The average was a 59/100 on a 24 hour exam. Almost zero partial credit given. Avoid this section.
+
+--- review 120506 (Fall 2021 | Grade: C+ | Dec. 17, 2021) ---
+This class was a mess from the start. His lectures are extremely messy and hard to follow, take forever to grade assignments, goes off on random tangents, has a hard accent, and has barely any structure for the class. Avoid this class if you can.
+
+--- review 108560 (Spring 2020 | June 3, 2020) ---
+I think given the covid situation the professor did a great job. Particularly with improvising and teaching via an ipad. He was helpful and accommodating towards students. Homeworks and finals were fair. Hes an overall great guy and cares about his students. I disagree strongly with the other students take. The course material is inherently difficult (one of the toughest in the department) and a lot of it requires significant self learning for mastery - otherwise everyone would have a job at google/facebook. I personally think he taught the right concepts (supplementing the book well) which is the proper way to learn a course so that students aren't trying to pick between the professors material and the assigned book. The book itself is really good but some of the concepts require visuals which the professor did a good job of showing considering he was using an ipad.
+
+--- review 120988 (Fall 2021 | Grade: A | Dec. 24, 2021) ---
+Overall, the material taught in this course was useful & definitely a good preparation to start leetcoding and practicing for interviews. Lectures weren't particularly engaging, but I found that they taught most of what we needed and weren't too bad at 1.5x speed.
+
+That said, the administration of this particular class was a complete mess. Grading was extremely inconsistent and regrades were almost a necessity to get partial credit where you should.
+
+The real horror story of this class was the final exam. I went into the final with high As on every assignment, feeling prepared, and failed. I actually received no points on the two algorithms I coded (which ran and passed dozens of test cases in Python). Myself and many others in the class felt that one question in particular wasn't really even graded by the TA in charge of it, with >90% of the class receiving 0s on the question, and the only solutions which received credit were those who followed the exact approach the TA did. After numerous regrade requests I was able to receive credit back for one of my working algorithms, but not the other. Luckily, I did well enough on the rest of the class material that I ended with an A in the course, but I can't imagine how students who needed to do well on the final are feeling. This final was graded nothing like the rest of the material in the course and it was evident that the professor/ TAs were unprepared to grade the problems they had given for proper partial credit.
+
+Lastly, the professor/ TAs were terrible at responding to Piazza/ email. Our Piazza page is littered with dozens of unanswered (sometimes important!) questions. Furthermore, I never heard back on any email I sent to the professor. If you need testing accommodations or have other questions about the course, don't expect a response.
+
+Final take: Decent material, but absolutely avoid this section.
+
+--- review 132669 (Winter 2023 | Grade: A+ | Sept. 13, 2023) ---
+I took this class in person and I would say it's a decent option for CS 180.
+
+In general, the lectures for this class provide a good balance of concepts and examples, but I found that I needed to put in extra effort to fully grasp the material. Also, he used the default notes app on the iPad and his handwriting could get messy at times, so if you miss a lecture, you might not be able to read some parts of his notes. The homework assignments were generally fair, although there were some challenging problems that required more time and effort (ahem, fire-stations). The exams definitely had 1 or 2 problems that would be much harder than anything we saw on the homework.
+
+Overall, the 1st half was very chill, as we mostly went over other concepts covered in CS32, such as time complexity, binary search, array vs linked list, stacks, etc... The 2nd half is where this class really ramps up as we get into more graphs, divide & conquer, and dynamic programming. But thanks to the help of the TAs (especially Lucas), I was able to clarify a lot of the lecture concepts and get more practice with the tougher problems.
+
+In the end, he added a +7% adjustment to the grade, which I thought was a fairly generous curve.
+
+--- review 111202 (Spring 2020 | Grade: A- | Sept. 14, 2020) ---
+Easy class for CS 180. The lectures are pretty organized and the professor makes the points pretty clear. He is not a super engaging lecturer, but he definitely clearly states what you need to know, which for me is more than enough. Go through lectures carefully, and no other materials like textbook is really needed. And I feel like the things he taught is enough for preparing for interviews, etc.
+
+--- review 109775 (Spring 2020 | Grade: A+ | June 23, 2020) ---
+I honestly really enjoyed this class. I thought it was awesome! Professor Hseih did a great job of teaching the material given the current situation. In lectures he was always willing to spend time answering questions to make sure everyone understood what he had just gone over. This was my favorite class of this quarter and given the reviews of some of the other professors who taught this class, I feel grateful to have the opportunity to take it with somebody who actually taught the material. I feel I really understand the more challenging concepts like dynamic programming after this class. I really enjoyed the mix of proofs and algorithmic thinking that this course contained! In terms of difficulty, the first half of the class is really easy. The material is simply not hard. However, as the class transitions to divide and conquer, dynamic programming, and np-completeness, the difficulty increases. We only had 4 homework assignments throughout the quarter which was nice, but the later ones did take some time! As well, we got absolutely destroyed on the final which was 72 hours and took close to the 72 hours to actually complete it (although median was in the 80s since we had so much time to complete it). In addition, Professor Hsieh, is incredibly caring and accommodating trying to make our experience the best it can possibly be. I recommend taking this class with Professor Hsieh if you have the chance.
+
+--- review 108978 (Spring 2020 | June 12, 2020) ---
+At the beginning of the quarter, HW assignments were graded rather leniently and were spaced out, so the workload did not seem like much. However, HW 4 and the final were graded quite harshly compared to the rest. In addition, the fact that the homeworks were spaced out meant that we only had 4 homework assignments - so each assignment was worth a lot more. This wasn't entirely fair considering that homework accounts for 45% of our grade, so messing up on even one homework brought down your grade by a lot. We were given 72 hours for the final, but it was extremely hard and was graded quite strictly as well. I learned a lot more from reading the textbooks than just attending lecture.
+
+--- review 108969 (Spring 2020 | Grade: S | June 12, 2020) ---
+Professor Cho is really considerate at this quarter -- a special online quarter due to COVID. He cares about students' learning and concerns about grade. The class itself is not easy but he actually did a good job at explaining everything. He use ipad to give out notes and upload his materials timely after class. And he is a good person in general. The final is really challenging but he respects our efforts to make it so curve the class up. Homework and exam are both very clear. I really enjoy this class!
+
+--- review 109673 (Spring 2020 | Grade: A- | June 22, 2020) ---
+The problem with Hsieh is that he hadn't adapted to online classes, grading homework early on in the quarter liberally, and then cracking down completely in the second half, grading many students unfairly. His notes end up be illegible, as he scribbles all over them to show how data might flow, yet doesn't have any clean notes without the scribbles. My advice would be to avoid him during online quarters.
+
+--- review 109918 (Spring 2020 | Grade: P | June 25, 2020) ---
+Great professor :) He cares so much about student struggles, and is on our side. Tests and homeworks were fair, and homeworks were 50% of the grade, so the tests didn't seem so stressful. Take him if you can
+
+--- review 108431 (Spring 2020 | Grade: I | May 22, 2020) ---
+grading scheme:
+
+hws (4 of them) - 50% midterm - 25% final - 25%
+
+assignments are easy, the professor can't explain concepts well. If you only care about the grade, I would say go for it. If you want to learn anything other than the things already in your textbook, please avoid him.
+
+--- review 131130 (Winter 2023 | Grade: A | June 1, 2023) ---
+CS 180 with Cho was a very useful class. Course topics were directly on an internship interview that I aced (binary search go craaaazy). Also helps insanely with Leetcoding. Cho's class is easy, and a little TOO easy at that. There are only 4 homework which aren't bad, which can leave you unprepared for the exams if you aren't good at algo. Honestly, it's an easy class that can be sprinkled on top of a higher loaf quarter. Take this class as early as possible in your CS career, it helps you immensely.
+
+--- review 130899 (Winter 2023 | Grade: A+ | April 19, 2023) ---
+PROF HSIEH is the GOAT
+
+--- review 128731 (Winter 2023 | Grade: A- | March 3, 2023) ---
+10/10 would recommend taking this class with professor Hseih. Yes, it's somewhat difficult to understand what he's saying early on, and yes his notes are little disorganized. But, he really understands the material and just by going through his lectures and the examples that he gives, you can get an in-depth understanding of the concepts.
+
+The workload is super manageable, with just 4 homeworks (30%), midterm (30%) and a final (40%). The final was a little tricky (but that's also because tricky concepts like DP are introduced later on in the class). But just do well on the midterm and do the hws properly - they're easy to score on and leniently graded. So that leaves you comfortable for this final.
+
+The curve was also quite generous, with a 7% flat scale. So, an 86+ becomes an A, 83+ is A- and so on...
+
+--- review 123304 (Fall 2021 | Grade: A- | March 29, 2022) ---
+Overall, the class concepts and algorithms taught are definitely useful and can aid you a lot with future coding interviews. However, the class was just poorly structured as personally I was doing well on all assignments until the final exam. There were also many student compilations with the final regrade requests with solutions not being able to get credit, and grading where perhaps > 90% students got no credit before regrades. The class is definitely useful and Cho is clear at explaining algorithms.
+
+--- review 121914 (Fall 2021 | Grade: B+ | Feb. 11, 2022) ---
+This class can be tough. The problem sets usually aren't all too bad - they mainly are just slight modifications on problems presented in lecture. The real problem with this class is the difficulty of the midterm/final. They were 24 hrs and take home, however they took the entire 24 hours to complete, and almost all the problems required very novel ideas, albeit using some basic concepts covered in lecture. All in all, an important class to take and algorithms are supposed to be tough, however I wish they could have been presented in a more engaging way and that the exams would contain the questions based on lectures while the problem sets would give us time to explore developing novel ideas to solve problems.
+
+--- review 121335 (Fall 2021 | Grade: A+ | Jan. 4, 2022) ---
+A very well-intentioned dude, but exams were TOUGH.
+
+i mostly agree with what everyone else said. lectures + textbook were more than enough to cover everything u need for exams. lectures are so-so but usually good enough. textbook was very useful. exams were TOUGH. i spent 20 hours on a 24 hour midterm and 13 on a 24 hour final. LIKE WITHOUT PROCRASTINATING OR ANYTHING. exams required a lot of creative approaches, but TAs were very nice with grading HWs 1,2,3, midterm. Final and hw4 grading were rough but not unreasonable (actually idk abt this tbh lol u could argue that grading was sorta mean) homework took maybe 14 hours each, but theres only 4 hw assignments so its managable. grading: (40%) Homeworks: we plan to have 4 homework assignments. (30%) Midterm exam (30%) Final exam
+
+--- review 121310 (Fall 2021 | Grade: NR | Jan. 4, 2022) ---
+So before the course evaluations are due, you will be graded extremely leniently; and that will be HW 1-3 plus the midterm. After that, with the final (our median = 58) and HW 4, you will be crushed. Some of the problems on those were in the area of research, and this class will not prepare you for them well enough. The teacher can't teach and is impossible to follow. I am starting to think that this department cannot teach at all (maybe that makes sense considering who is the head of the department). The grading was just abysmal (and I truly believe that was by design): inconsistent, extremely delayed, no feedback... Overall, this is just an utter embarrassment of a class! If you have to take this section, make use of the book, YouTube, and such. Otherwise, AVOID!!!
+
+--- review 121268 (Fall 2021 | Grade: A | Jan. 3, 2022) ---
+Watching Hsieh stops talking for a whole minute and reading questions in the chat 20+ times in one lecture is torturing. I'm learning by book because of this and his accent. HWs and exams usually have 4 problems, 3 do-able but 1 hardcore. I found some of the problems on leetcode as hard. Nevertheless, the curve is generous. The class averaged 59 in final and he add 3-5 points to everyone's total grades. I get from B+ to just over A.
+
+--- review 120901 (Spring 2021 | Grade: B | Dec. 22, 2021) ---
+The grading scheme is: Homework: 50% Midterm: 50% Final: 50% I think that given the online format, professor did a great job of teaching this class. For lecture, he would write his notes on an Ipad as he lecture. His handwritting can be hard to read and the lecture isn't really that engaging but he would take time to answer all questions that was raised. Although I think that he really explained it clear enough conceptually, I would suggest reading the textbook as supplement as it may have some finer points and example that may help you in solving the homework. For homework, I think it really takes sometime to solve it, for me it took me about 5 - 10 hours in order to come up with a solution, even then, I still sometime miss some cases and get points docked because my proof is either incomplete or I overlooked a possible case. For exams, we were given 24 hours for midterm and 48 hours for final. In my opinion, the exams were way harder than the homework. I took the entire time working on it and even then I still barely passing that exam.
+
+--- review 119107 (Spring 2021 | Grade: A | Aug. 8, 2021) ---
+Professor Hsieh did a great job teaching this class in the online format. For lecture, he wrote notes on his iPad with a stylus, and did a good job. He went through topics with thoroughness and clarity, and was more than willing to answer lots of questions. The format of the class was very straightforward. There were four homework assignments, as well as a 24 hour midterm and 24 hour final. Most homework assignments consisted of four to five algorithms questions, and didn't take too long. The final and midterm were very similar, with varying degrees of difficulty between questions. Overall, I would definitely recommend taking CS 180 with Hsieh. The workload wasn't too bad and I learned a lot.
+
+--- review 118527 (Spring 2021 | Grade: A | June 22, 2021) ---
+Great professor. Not super engaging but explains concepts well enough to understand and use. Tests were time-consuming and hard but it is cs180. Overall, worth taking compared to other professors
+
+--- review 118463 (Spring 2021 | Grade: A | June 22, 2021) ---
+He's okay. Lectures aren't terrible, but not particularly engaging or interesting. That being said, Professor Hsieh is a pretty kind person, and he is always happy to answer questions. The homeworks definitely take a while, so start early! If possible, try to find a friend to review the homeworks with after you finish; doing this really helped me solidify the concepts. The exams on the other hand... sucked. I know people that spent 14+ hours on the midterm (which had a 24-hour window), and the final took even longer. But all this means that the TAs need to spend more time grading the exams, so the grading ended up being pretty wack, where they'd be super lenient in some places and mark off points for no reason in others. Once testing returns to normal though, I don't foresee this being an issue.
+
+--- review 118396 (Spring 2021 | Grade: NR | June 21, 2021) ---
+Professor is very clear and has this down to a science at this point. The textbook is INSANELY HELPFUL, even more so than lectures IMO.
+
+This class involves some healthy mind-gymnastics to do well in. I ended up spending ~10h just solving each homework, plus an additional 5h writing up my solutions. Needless to say it was a little grindy at times, but this class was really good at getting me to understand the Algs. I wish we spent more time on Dynamic Programming, of which we basically only scratched the surface in this class.
+
+He said we would have 500 homework points, worth 50% of our grade total, but we ended up having 350 points (4 assignments), so they ended up counting for a lot more of our grade. The midterm was fair, but took a looong time to writeup (24h window). The final had a 48h window, and even with all that time I still ended up not fully solving one problem. Pretty hard stuff for sure.
+
+--- review 118210 (Spring 2021 | June 18, 2021) ---
+what all the other reviews said - homework takes a long time, but you get faster as you get more used to the patterns you need and become adjusted to the idea of trying many different solutions as opposed to kind of knowing which direction you're supposed to go in right off the bat. It's like a puzzle. Cho is great at explaining, but things can get a little bit muddy at some points - just make sure you ask questions if this is the case, because he is always, ALWAYS kind and willing to answer. Super accommodating, super kind. 100% would take this with him again.
+
+--- review 111107 (Spring 2020 | Grade: A+ | Sept. 1, 2020) ---
+Professor Hsieh was incoherent and a very poor lecturer. I eventually stopped showing up to class and only read the textbook since I never learned anything from him. He gave decently difficult homework but there weren't usually that many questions. The midterm was not too bad but his final was definitely very tough.
+
+--- review 110053 (Spring 2020 | Grade: A | June 27, 2020) ---
+For the online version: Lectures were pretty messy since he was constrained to an ipad, he would probably be better in a lecture hall with a lot of whiteboards. I ended up not going to lectures after week 5 because I couldn't follow. So a good part was he gave us 24 hours for the midterm and 72 for the final. The final was hard just because I think the concepts were a lot more difficult to grasp compared to what was on the midterm, but its not like the questions were unreasonably difficult, if that makes sense. I did end up using the entire time to figure out solutions for all the questions though, so that was really stressful three days. The homework is not crazy hard and collaboration is fine.
+
+Basically I would recommend this class if you are able to learn on your own, since he doesn't try to be unfair and trick you or anything. And if it goes back to in person his lectures would probably be much better than my experience.
+
+--- review 109904 (Spring 2020 | Grade: A+ | June 25, 2020) ---
+Professor Hseih is very nice and accommodating for students (during the COVID-19). He offered 24-hour midterm and 72-hour final. There were total of four homework assignments due which took some time, but most of it was Googleable. He often gave out extensions for the homework deadlines. The midterm was pretty easy (median of 96~98 I believe) but the final was very tough. It actually took at least two days to complete and the median ended up being around 83. Both exams were open note. Although Professor Hseih teaches by the book, he does not have a neat handwriting, so it's often pretty difficult to decipher his handwriting. I think he would've taught a lot better if he was in person. For more difficult topics like DP, NP, and DAC, I usually resorted the textbook (which was also kind of confusing) and a lot of YouTube videos.

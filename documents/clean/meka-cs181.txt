@@ -1,0 +1,84 @@
+# Raghu Meka — COM SCI 181
+# https://www.bruinwalk.com/professors/raghu-meka/com-sci-181/
+# 17 reviews
+
+--- review 127452 (Fall 2022 | Grade: A | Dec. 30, 2022) ---
+meka is amazing. his lectures are super insightful and genuinely thought provoking. i came in expecting to hate 181 but it ended up being one my favorite ucla cs classes. his exams aren't necessarily easy but i felt that they were fair.
+
+biggest tips for success in the class: 1. do all of the practice exams since your exams will have a similar structure 2. do the practice problems on the hw to the best of your ability. even if you can't do them completely on your own, make sure you understand the solutions. a similar problem usually comes up on the exam!
+
+--- review 120703 (Fall 2021 | Grade: A+ | Dec. 21, 2021) ---
+One time I asked a question after class and the next class he brought up my question to the whole class, saying that it was a good question and sharing the answer with the entire class. I'm still living on that high. Anyways, Prof Meka is great and presented the material of this class very well. His explanations are very clear and he welcomes student questions. Definitely take this class if you are even slightly interested in the more theoretical side of CS!
+
+--- review 113728 (Fall 2020 | Grade: A | Dec. 30, 2020) ---
+Professor Meka was one of the BEST professors I have had in the CS department! I think he did a great job teaching this class remotely. The course structure was changed this quarter and was more about "Theoretical Computer Science" than what it was before. The content was always very interesting and often times mind blowing, especially near the end of the quarter when we covered uncomputability, TM, and proved Godel's Incompleteness Theorem!! Coming into this course, I had no idea what TCS is about and even though I am not that interested in the field, I still find the class very interesting.
+
+This class is full of proofs and you won't write a single line of actual code (aside from pseudo-code). Proofs are difficult, but with Professor Meka's great explanations, it becomes somewhat manageable. All the HW are proof-style questions that re-empahsizes concepts taught in class. About half of the questions will be somewhat doable if you attended lecture, but there will always be VERY HARD questions on the HW that I couldn't figure out on my own even if I were to stare at the question the whole day. Even so, the TAs were extremely helpful!! They would often give hints to difficult HW questions during discussion and if you need more help, you could always go to OH where they go over the HW questions in detail until you understand them. S/o to TA Hadley and Shawn!
+
+There were 3 non-cumulative exams throughout the quarter (including the final). The exams were increasing more difficult and I would say that the final was really hard (but still doable imo). Even though, I only did well on the first exam, and scored about average on the latter two exams, I was still able to get an A. I think there is a nice curve.
+
+Compare to my friends who took it in previous quarters with the old course structure, I would say this class is definitely **harder than before**, but you will definitely learn A LOT more than ppl in previous quarters did. So, I 100% recommend taking this class with Meka!! You will have a great time and learn a lot :)
+
+--- review 113705 (Fall 2020 | Grade: A | Dec. 30, 2020) ---
+Prof Meka is a legend. Dude is super passionate about Theoretical Computer Science, and does a fantastic job of channeling that passion every lecture. Theoretical CS is kind of an oddity among the rest of the CS classes, so the material can be difficult to grasp at times. However, Meka goes slowly and methodically, and makes it much easier on the class.
+
+Homeworks were easy for the first half of the quarter and got kinda obscure towards the end, but overall not super time consuming. He uses a 3 midterm approach, with each midterm considerably more difficult than the last. I know everybody wants this class with Sherstov but I have no regrets taking it with Meka.
+
+--- review 146809 (Fall 2025 | Grade: A | Dec. 20, 2025) ---
+Wow, what a cool guy. Not sure if it was just cool topics or he was a great lecturer, but lectures were genuinely really fun. Some people complained he was a bit slow, but honestly I think their attention span is just fried. Lots of partial credit on exams, homeworks are hard but reasonable, and lectures were fully recorded.
+
+He was a bit sad people weren't showing up midway through the quarter and said he would stop posting, but I think enough people showed up and he never took them down. Raghu Meka is my goat and deserves his ridiculously high Bruinwalk score 100%
+
+--- review 146745 (Fall 2025 | Grade: A | Dec. 19, 2025) ---
+Professor Meka is definitely one of the best CS professors I've had, especially considering this is a theory heavy course. The lecture content can feel a bit dense towards the end of the quarter where we have 2 weeks of a special topic voted by the class (ours was quantum computing), but I didn't have much trouble understanding things as long as I studied his lecture notes closely. Exams were very fair imo, averages were always in the 80s and similar to the past exams he would give + the homework. There were 3 non-cumulative exams instead of the standard midterm + final setup, which I really appreciated. He didn't have strict grade cutoffs other than >90 being some form of an A, >80 being a B, etc. This year, ~30% had an A or A+ (he rounded all A- to an A), ~60% had a B.
+
+Lecture attendance is not mandatory and he offered a Zoom option + posted recordings, so I would often just watch the recordings at my own pace. Earlier in the quarter, there seemed to be a bit disconnect between lecture content and homework, but he adjusted his lectures to have more exam/hw style examples after the first exam, which helped immensely.
+
+--- review 146722 (Fall 2025 | Grade: B+ | Dec. 18, 2025) ---
+Got a 89.5 and ended with a B+. Overall somewhat interesting class, not boring.
+
+--- review 140574 (Fall 2024 | Dec. 3, 2024) ---
+Professor Meka in my opinion is the perfect example of a professor who cares deeply about the learning outcome of their students. Professor would write notes live on a platform where you could tune in and watch the live document which was great when reviewing a lecture or perhaps learning missed materials but was also very helpful during class. I am a slow writer and to be able to open the live document and see what I missed even after professor had moved to the next page was very nice.
+
+Again in my opinion professor Meka always had a very approachable way of explaining the concepts and was always more than happy to attempt an explanation from a different angle if it did not make sense the first time. Moreover, professor Meka would occasionally go over brief historical tangents on the course topics, and while I often find it pointless/distracting in other classes, it was actually very interesting and engaging here.
+
+Homeworks and exams were all very fair, never feeling too easy or too challenging, and the homeworks in particular never took too long, around two hours on average at least for me. The textbook was made available online and while never necessary, I found it did a good job at supplementing the materials without being too long or confusing.
+
+I only attended the first discussion section so I can't say too much about the TAs, but the impression I got was that they seemed knowledgeable and that discussion sections were mainly for reviewing supplemental material and for going over concepts helpful to the homeworks.
+
+The course content itself was also very interesting, despite me not thinking it would be going into the course. It very much feels similar to the kinds of topics in CS 180 (which is not surprising), but at least with professor Meka, was paced well and explained clearly.
+
+--- review 135813 (Fall 2023 | Grade: B+ | Feb. 21, 2024) ---
+Prof. Meka, while not necessarily being the most charismatic man in the world, is a very competent lecturer who definitely has a lot of passion for what he teaches. He lectures using an interactive whiteboard, the contents of which are later posted as slides. Those slides are helpful if you attended lecture and somewhat confusing if you didn't. Honestly, go to lecture if you can. Yeah, I know everyone says that, but keeping up with this course dramatically reduces the amount of time you need to study.
+
+For the most part, honestly the material is pretty easy (focus on pumping lemma proofs and reductions from the goated HALTONZERO algorithm), but it's really important and interesting from a theoretical perspective, and it sort of provides an insight into the abstract design of systems with very limited resources. Exams are usually just slightly harder versions of homework questions, and the homework assignments were 1-2 hour long problem sets assigned every week or two; very doable.
+
+--- review 134663 (Fall 2023 | Grade: A | Dec. 30, 2023) ---
+Amazing class. Workload was manageable and content was clear. There were 3 exams and they were not cumulative, so it was easy to study for the tests. Would take again
+
+--- review 133891 (Fall 2023 | Grade: A | Dec. 17, 2023) ---
+I initially thought Meka would be a pretty boring lecturer based on the first class but I was happily surprised. The lectures ended up being really interesting and it was easy to tell that he was passionate about what he was teaching. His tests were fair and he provided 3 yrs of practice exams and additional hw problems which were very helpful for the exams (many problems were similar to the practice). There were 3 non-cumulative exams (instead of a midterm and a final) so if you didn't do well on one of them you could still make it up on the next ones. HW was manageable and lectures were recorded. The content was occasionally dense but it's a theory class so that's to be expected. Overall, Meka was a great prof to take this class with.
+
+--- review 126986 (Fall 2022 | Grade: NR | Dec. 12, 2022) ---
+Meka is a great professor. 181 is definitely a hard class but somehow Meka made this class extremely enjoyable. His OHs are great and he explains everything really well. For the midterms and final, the best way to study is literally just going to his OH and do the practice problems with him. Or just simply be there and listen to what other people are asking. The 1 hr OH is somehow the most productive studying sesh ever.
+
+--- review 121544 (Fall 2021 | Grade: B+ | Jan. 13, 2022) ---
+Super interesting class, Meka is a great lecturer and really good about answering questions. The homeworks are pretty difficult and are mostly graded on completion, but definitely manageable. We had two midterms and one final, all non-cumulative. He's pretty lenient on grading for these-- I basically skipped a question and still got one point for "attempting" it. Overall, would definitely recommend taking this class with Prof. Meka.
+
+--- review 120424 (Fall 2021 | Grade: A+ | Dec. 16, 2021) ---
+Great professor, hard exams but extremely generous grading scheme. Would take him again.
+
+--- review 113523 (Fall 2020 | Grade: B | Dec. 29, 2020) ---
+This is one of my absolute favorite classes I’ve taken at my time here at UCLA. Don’t get me wrong - the material is very, very hard and I’m a very, very below-average student. But Meka teaches in a way that is very well-structured and thorough. Being remote this quarter was a challenge for all my professors, but he provided very clear (if a bit hard to read) notes, reasonable homework and tests, and very well-written and fast answers on campuswire.
+
+--- review 113516 (Fall 2020 | Grade: A+ | Dec. 29, 2020) ---
+This is such a great class. Contrary to the official course title, the main focus of the class is not finite automata. Meka has revised the curriculum to talk about "theory of computation" as a whole, and some of the ideas/ theorems we discussed were honestly mindblowing. The textbook is very modern and completely free online.
+
+There are two midterms and a final. I personally found the exams to get progressively more difficult, although that's probably due to the nature of the material. Overall, they are fair. Make sure to study the class notes, as there are always a few questions that basically require you to recite key ideas. One final note: the exams are timed over Zoom, so I imagine they would be similar to in-person
+
+--- review 112438 (Fall 2020 | Grade: A- | Dec. 19, 2020) ---
+Excellent class and excellent professor.
+
+Prof Meka adapted well to teaching in a covid remote learning environment, his live zoom lectures were generally well prepared and engaging. Exams and homeworks were challenging but fair, and the questions generally posed on them were interesting.
+
+Overall I can say I learned a lot this quarter from him and recommend him and this class.

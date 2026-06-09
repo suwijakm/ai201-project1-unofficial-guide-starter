@@ -1,0 +1,133 @@
+# Carey Nachenberg — COM SCI 32
+# https://www.bruinwalk.com/professors/carey-nachenberg/com-sci-32/
+# 30 reviews
+
+--- review 115580 (Winter 2021 | Grade: A | March 16, 2021) ---
+Nachenberg & Smallberg are legends. Just here to boost their ratings.
+
+Fun story: just before the last lecture, I left a message on Slido asking Carey to invite David as a guest host for once. It turned out that Carey did tell David, and we finally got to see both of them (virtually) at the same time. For me, it was probably the best moment of the whole quarter.
+
+--- review 100431 (Winter 2019 | Grade: A | April 2, 2019) ---
+In a nutshell, TAKE THIS CLASS. CAREY IS GREAT!
+
+Carey really makes CS32 enjoyable. His teaching style is efficient and encourages engagement, his slides are immensely beneficial, and most importantly, he is just such a nice guy that you would never regret to get to know him.
+
+The workload for this class is totally manageable. Some of the projects might take a little bit more time than others (like project 3 and 4), but all of them are super-well designed (beside a few mistakes in the spec) and are extremely helpful in consolidating the materials covered in class. Both of the midterms are easy (I believe the mean for both of the midterm was somewhere around 90%). The only downside of this class is that since final is held on the weekend of week 10 and project 4 is also due week 10, you probably don't have that much time to study for the final.
+
+Overall, I extremely recommend this class, especially for those who thinks Professor Smallberg's lectures are a little bit too slow. Take this class, and you would not regret it.
+
+--- review 117257 (Winter 2021 | Grade: A | April 5, 2021) ---
+Absolutely great professor. Made sure we were engaged, gave away giftcards for participation lol. Projects 3 and 4 take a while but they're not difficult, don't worry. The midterms are straightforward and the final wasn't scary at all. Have fun with this class, you'll end up missing it.
+
+--- review 88449 (Winter 2016 | March 17, 2016) ---
+Hands down, best professor I've had at UCLA. Carey genuinely cares about teaching students and he is amazing at it. Godly slides, super clear explanations in class, and super friendly to boot. Projects 3 and 4 are toughies, start them early. Go to office hours, you'll go through problems that will most likely come up on the exams and you'll get to know Carey better!
+
+--- review 130743 (Winter 2023 | Grade: A | April 10, 2023) ---
+Pretty tough class. Projects 3 and 4 would save tons of time with good preparation and planning. Be willing to spend 20+ hours on 3 and make major changes halfway through to all of your work. Tests are alright, final is more difficult than midterms. Nachenberg was funny and a nice guy and his slides are comprehensive if you miss lectures. Favorite class I have taken so far.
+
+--- review 117297 (Winter 2021 | Grade: A+ | April 8, 2021) ---
+I really enjoy how he actively tries to make the class enjoyable. I've heard he's even cooler in person, so if you're thinking of taking this class, just do it! Edit: Almost forgot to say that you should do your projects early. Don't start project 3 the day before it's due unless you plan on spending your next 20 hours coding.
+
+--- review 107161 (Winter 2020 | Grade: A | March 27, 2020) ---
+Overall great class and Carey is awesome. The class is 5 homeworks, 4 projects, 2 midterms and a final.
+
+Homeworks: Not that long, at most will take you 4 hours. They cover exactly what was covered in class. Not much to say, just make sure to do good on them. Typically 5 days to complete them.
+
+Projects: Projects 1 and 2 are kind of like longer homeworks. It is easy to do well on them, not too much of a time commitment. Projects 3 and 4 are a different story. Project 3 is 30 to 40 hours for a typically student, and comes with a 40 page spec. Nothing too crazy to implement here, just time consuming for the most part. Project 4 will take about 20 hours. It is conceptually harder than project 3, but you are given a lot of freedom as long as you fit inside of the spec. I recommend starting project 3 and 4 right away, will really help you , i.e homework 5 and project 4 are due the same day so plan accordingly.
+
+Midterms: Only have an hour for each midterm so come prepared, DO NOT with a lot of notes. You'll waste time flipping through them. Midterm 1 was easier, most people finished early. Midterm 2 was a harder and required a little thinking outside of the box. Most people did not finish midterm 2 early.
+
+Final: Opted out of it. But it is structured different than midterms (with multiple choice).
+
+--- review 106856 (Winter 2020 | Grade: A | March 23, 2020) ---
+If you need to be convinced that Carey is an amazing professor, just look at the number of reviews. 5 pages! That should tell you more than anything that Carey is a professor that not only inspires his students, but teaches to a level where we're committed enough to write a review for him. The class introduces several concepts that always seem fast paced, but I found that working on projects helped to understand those core concepts. He jokes around and tries to make the class as interactive as possible with his slides. When you need help, he's willing to answer questions in-depth during his office hours, no matter the level of difficulty. Definitely a professor you do not want to miss as he only comes around once a year!
+
+--- review 92957 (Winter 2017 | Grade: B | June 21, 2017) ---
+Carey is by far the best CS professor at UCLA. I'm a EE so one of those guys that Smallberg likes to make fun of. His lectures are interesting and engaging while also being informative. The material is really not that difficult with his thorough and relevant explanations. His course reader is also off the books good. The workload is about insanse especially our 75 page project 3 spec and the 34 page project 4 that most people didn't finish. We didn't get grades back fronanyhing after project 3 so hard to tell how we did. Overall best prof to take CS32 with because he truly cares and gets to know his students.
+
+--- review 148502 (Winter 2026 | Grade: A | April 10, 2026) ---
+CS32 is pretty similar to CS31 - there are 4 projects instead of 7, but they are bigger and require good planning. Carey is great at explaining big picture concepts, and his slides are available online so you don't really need to take notes during lecture. He does a lot of practice exercises in lecture (with prizes if you participate) which is good so you can apply what you've learned and quickly figure out which concepts you're not understanding. Midterm #1 was all free response, midterm #2 + final were a mix of mcq and free response. Honestly, I didn't know what to expect for CS32, but the class was basically just thinking of a bunch of different ways to store + access data and the pros + cons to each data structure.
+
+--- review 136487 (Winter 2024 | March 15, 2024) ---
+One of the best classes I have taken at UCLA yet. Prof. Nachenberg is super approachable, in fact by the end of the quarter, he knew the names of most students (in a 200-student class) which is crazy. CS32 has taught me so much and has genuinely been a fruitful class—don't think there are better ways to launch yourself into SWE. The material and content are hard and a lot of work (expect to spend about 30-50 hours on homework and projects), but I can assure you it's rewarding. The class is also well-structured and fun. Prof. Nachenberg's lectures are surely a highlight, he gives out candy, asks lots of questions, and keeps the class engaged.
+
+--- review 131000 (Winter 2023 | Grade: A- | May 12, 2023) ---
+Honestly Carey is not a bad teacher, he is exceptionally prepared and you will definitely learn a lot in this class. That said, I really did not like how he runs lectures. He tries incredibly hard to make the lectures funny, which seemed to work for a lot of the class but I personally really disliked it. Class is constantly interrupted with joke slides or breaks or games or some other time-wasting activity that Carey had planned. I understand that students can get bored and need a break, but I legitimately think that the class time could be cut in half if he omitted all the unnecessary gimmicks.
+
+I did not find Careys activities fun or amusing, but rather wished that I could have left the class 45 minutes earlier had we not taken so many pauses for games. His jokes are corny and outdated, and frustrated me every time we took a 10 minute break to hear him tell another story.
+
+The worst part of class is when carey says "Ok its looking like we are a little tired. Who wants to hear a story?". I do not want to hear a story. I am tired because I want to leave class. I never want to hear a story.
+
+--- review 130475 (Winter 2023 | Grade: A | April 4, 2023) ---
+Best lecturer ever! Learned a ton! Definitely the best choice ever to take CS32 with Carey!
+
+--- review 124730 (Winter 2022 | Grade: B+ | June 20, 2022) ---
+CS 32 is hard, but Carey makes the class worth it. He is such an engaging and active lecturer. He is excellent in explaining the material and make the class very fun. I would always choose Carey over Smallberg. He often had encouraging and motivational talks with us which made life worth living again.
+
+I often was stuck on projects to the point that no TA was able to help me. During those times, I emailed Carey my problem and he was always more than happy to help me.
+
+One downside is that he does not take extensive questions about past materials or current projects during lecture time. He directs you to ask him during his office hours.
+
+Overall, CS32 is a CS weeder class and has a very heavy workload. I recommend to take it with easier classes. Carey is one of the best professors out there, and he will help you through this difficult time in your life.
+
+--- review 124720 (Winter 2022 | Grade: A | June 20, 2022) ---
+I took this class in Winter 2022. Because of the Omicron variant, the class started off online and later went in person. I never really attended lectures because Nachenberg's slides were really clear and were all I needed to learn the material. The projects did take a significant portion of time but if you understand the subject the projects are not hard. I would recommend this class regardless of the professor, but Nachenberg definitely has more engaging lectures.
+
+--- review 124665 (Winter 2022 | June 19, 2022) ---
+Carey is a holy man that will enrich your experience. What can be said that hasn't been already?
+
+He'll honestly strengthen your perspective on CS and sense of belonging heavily. He's genuinely just good, both as a professor and as a person. Take his class.
+
+--- review 123900 (Winter 2022 | Grade: A | May 4, 2022) ---
+Definitely one of the most memorable classes I have ever taken. Each lecture he has a mystery prize that he gives out to a student who correctly answers one of the more difficult questions he gives in class. One of them was ice cream with sardines in them. The course material itself isn't necessarily difficult to understand, but the projects to apply them can take a lot of time. Project 3 can take between 20-30 hours to complete with only 2 weeks to work on it. Project 4 takes about 10-30 hours to complete with only 1 week. There are also homeworks, which are not as hard as the projects but can still be somewhat lengthy. The final two weeks were fairly work-heavy, with Project 4 being assigned alongside a homework and the final exam coming up immediately after. The projects aren't really hard, but since they're time-consuming make sure to start early. The exams were not difficult.
+
+--- review 123724 (Winter 2022 | Grade: A | April 8, 2022) ---
+I am a little biased, but I really enjoyed his class. He is always trying his best to make the subject fun and comprehensible for students. He is also one of the few instructors I encountered that really cares about me. Although he is not perfect, I would still say that he is as best as you could get for a college professor.
+
+--- review 123396 (Winter 2022 | Grade: B | March 30, 2022) ---
+As an EE major with little programming experience, I struggled in this class. Carey is a great professor. His lectures are engaging, fun, and really helpful in gaining a better understanding of the material in the simplest way possible. Every week there is one or more deadlines for homework or projects. The first two projects are fairly simple and straightforward requiring only a few hours of work. Projects 3 and 4, on the other hand, require an insane amount of work and will probably take up most of your time. I would suggest avoiding taking this class in the winter of your freshman year simply because the knowledge and experience some of the people in the class have is almost impossible to catch up with. Given that most CS majors have to take the class at that time, the difficulty of the course is much higher than it would be in other quarters of the academic year. Regardless of your programming experience, the constant deadlines and assignments are exhausting especially heading towards the end of the quarter. Once again, Carey is a great professor and a wonderful person so if you are going to take this class I would recommend taking it with him.
+
+--- review 122605 (Winter 2022 | Grade: A+ | March 16, 2022) ---
+If you didn't take CS 32 with Nachenburg, you missed out.
+
+--- review 122596 (Winter 2022 | Grade: A | March 15, 2022) ---
+This is probably the single best class any UCLA CS student could take. Carey is incredibly smart and qualified since he worked as a lead engineer at several companies like Google and Lyft, and on top of that, his lectures are super entertaining, fun, and relaxed. His slides are also amazing and many students continue to use them for job interview prep years after finishing CS32. No student will ever regret signing up for a class with Carey.
+
+Carey and David Smallberg together put together one of the best data structures and algorithm classes in the country. Would 200% recommend Carey and this class to anyone.
+
+--- review 121990 (Winter 2021 | Grade: A | Feb. 15, 2022) ---
+I personally did not enjoy my experience in Carey's class. Simply put, Carey was obsessed with the idea of making class "fun." In a single 2 hour lecture, we took a break every 30 minutes for 10 minutes to play an unnecessary game like Mad Libs or Two Truths and a Lie. At one point he showed us a gross picture of an unknown black substance and asked us to guess what it was. After nobody could guess what it was, he revealed that it was a picture of his own earwax. On every other slide he included multiple "funny" outdated memes or gifs. The slides were written in Comic Sans and sometimes included juvenile jokes about farts, butts or poop. For one lecture, he wore a rainbow dreadlocks wig. He invited a guest to talk about their experience in the industry, but they were a past student who had nothing to say for the whole lecture except the one time when they had to come up with two truths and a lie during one of our three 10 minute breaks. It was frustrating to me because I felt like I wasn't being taken seriously as a student. I came to class to learn about Computer Science and instead I felt like I was watching a circus.
+
+I will say that I understand how students like him as a professor. He cares for his students and wants everybody to understand the course material. And I could tell that he truly enjoys teaching. But for someone like me who just couldn't stand his teaching style, I got by fine just reading the slides and supplementing with Smallberg's lectures.
+
+--- review 121266 (Winter 2021 | Grade: A | Jan. 3, 2022) ---
+BEST CS PROF EVER. He explains data structures in a super beginner-friendly way along with his hand-made powerpoint animations. His lectures are so fun with his life stories in the software industry. He also asks previous students to talk about how they step into the industry and giving college suggestions. Even if I don't remember the data structures on day, I'll still rememeber these inspiring stories. The only one con is that the lectures and projects cover too much OOP instead of data structures. Should talk more about graphs and balanced tree.
+
+--- review 118818 (Winter 2020 | Grade: A | June 29, 2021) ---
+Carey’s colossal voice made me break out into goofy grins and unabashed tears
+
+--- review 118358 (Winter 2021 | Grade: A+ | June 20, 2021) ---
+Nachenberg is a very good professor who teaches very clearly with slides and decent examples. A lot of material is covered, but the LA worksheets are very helpful, and the first few projects will keep you on track. The dreaded project 3 is a major time consumer, so I highly recommend allocating multiple hours a week to do well on this project. It is manageable but requires lots and lots of time. The tests were hard but generally manageable as well, but if you get stuck just move on; don't waste too much time on one portion or else the time will be up before you know it. Overall, I highly recommend Nachenberg but make sure to put in the time because this class can be very demanding - but also very rewarding.
+
+--- review 117378 (Winter 2021 | Grade: A | April 14, 2021) ---
+Carey is a godlike professor and even godlier at doing pushups
+
+--- review 116036 (Winter 2021 | Grade: NR | March 24, 2021) ---
+Carey is my favorite professor that I've had so far. He's a very good lecturer and he's really funny. In the quarter that I took it in, we had guest hosts who would stay during the lecture and tell us stories of what it's like to work in SWE and whether or not the concept we were learning about was used at their job. The projects are a huge step up from CS31, expect to spend a lot of time during the last 4 weeks of class because you have Project 3 due week 8 and project 4 and hw5 due a couple days before the final. Carey will make this class really enjoyable for you so even if you have Smallberg, attend Carey's lectures. He's a silly goose that you need to have as a professor.
+
+--- review 115828 (Winter 2021 | Grade: A+ | March 21, 2021) ---
+I really enjoyed CS 32 with Carey (yes he goes by his first name). He really did a fantastic job entertaining his students virtually, and I believe his enthusiasm and sense of humor make him an excellent choice for CS 32. I can see how he could have been even better in person, but the extent to which he engages his students online impressed me. He invites guests to come speak about their experience in the industry for literally EVERY class session. He understands that it's pretty hard to focus for two hours straight, so he hosts "detox sessions" where he allows his guests to conduct an AMA with students (how nice!). He knows how to crack jokes at the right moment, and has a strong sense of knowing what topics may bore students and spices them up with activities he has planned.
+
+His projects are not as hard as people say they are (Project 3 took time but was really easy in hindsight, Project 4 was harder but 6 days was enough to finish). The midterms are fairly straightforward (though if Carey had spent more time explaining templates, this would have made the second midterm way easier). The final, on the other hand, was on a different level than both midterms in terms of difficulty (hard!), but he did a great job preparing us for it by frequently quizzing us on Big O. Big O did end up dominating the final.
+
+Grading was incredibly slow for this class (haven't gotten back scores for projects 3,4, the final, and BOTH midterms). But I'm not complaining as Carey and Smallberg do their best to make CS 32 enjoyable for students.
+
+Edit: CS 32 final grades were released the first day of the spring quarter, less than two hours before the deadline. I miraculously ended up with an A+, even though I didn't do that great on project 4 (2 points above the median). Guess there truly is a curve :)
+
+--- review 115537 (Winter 2021 | Grade: A | March 15, 2021) ---
+I've heard so many great things of Carey so I came in with high expectations, and he did not disappoint! His lectures were the only ones I actually had motivation to watch live as he was super fun and engaging, bringing in guest hosts and giving out prizes for participating :) Carey's office hours are also super helpful as he will take every opportunity to make sure that you understand the material and ask you for feedback on his lectures. I really wish I had the chance to take his class in person, but this quarter has still been fun!
+
+Projects: Project 1 and 2 were not bad at all, I finished them in maybe 2 and 5 hours respectively. The infamous project 3 was actually not as bad as I thought it would be (although the spec was 57 pages), as I did a little everyday and finished a while before the deadline (they give you 2 weeks). Start early and it should be fine! Project 4 was much harder imo conceptually and because they give you significantly less time, but definitely doable. If you ever need help, just email Carey or Smallberg, Smallberg once helped me fix an issue and responded quickly even though it was 3:30 am Homeworks: There are 5 and they're pretty easy and worth a good amount of your grade, should take 5 hours max Exams: Because of COVID, exams were all online and first (60 minutes) and second (90 minutes) midterm were solely coding with 2 problems each midterm. For me they were not hard because you are able to test your code and make sure it works, so I finished with a lot of time left. The final was 80 minutes, only multiple choice, and significantly harder. Almost all of the problems were about Big O. I think most people took all the time to finish or couldn't finish in time
+
+--- review 110317 (Winter 2019 | Grade: A | July 2, 2020) ---
+Carey is the BEST. Very funny and engaging lectures. makes me feel bad for people who miss out on taking CS32 in the winter. He’s very dedicated to teaching and loves sharing about his experiences in industry. Uses an air gun to wake you up if you fall asleep in class. I use his slides to prepare for every recruiting season, and i even see kids from other schools using them too. Class is for sure a step up from CS31 but put in the time and you’ll reap the rewards. Ask him for help if you need it, he responds to emails FAST and always tries to make himself available. Also check out his FINANCE TALKS because no one else will teach you how to manage the money from your first internship. Genuinely a great guy, learned a whole lot from him, way beyond data structures.

@@ -1,0 +1,124 @@
+# Adnan Darwiche — COM SCI 161
+# https://www.bruinwalk.com/professors/adnan-darwiche/com-sci-161/
+# 19 reviews
+
+--- review 108380 (Spring 2020 | May 16, 2020) ---
+TAKE HIS CLASS! Professor Darwiche is an absolute gem! I got into the class on a last-minute PTE after spring quarter went remote. He has to be one of the most well-adjusted professors out of all of UCLA's remote courses.
+
+From day one, he has been prepared and well-versed with the Sketchbook app to use as a whiteboard (great handwriting too), rarely had tech problems, edited *ALL* of the recorded lectures to correct mistakes on screen and cut out any pauses/wait time. He divided the videos into 2 parts to upload, each 35-40 minutes long, which made it super easy for us to find things when rewatching. Even went to lengths to add his own intro music for the videos and sometimes draws a little daisy on the first slide :')
+
+He always stuck around after lecture to answer students' questions and provided external resources (optional) if you were interested in reading more. He's very patient, used engaging and funny examples, and explained concepts SO well. This was not a class where I had to often re-watch lectures or read the textbook to catch up.
+
+Exam was open book and pretty manageable, exactly what you'd expect based on lecture and homework material. TA's were also very knowledgeable and helpful in discussion (Shirley was great!) There's roughly one homework per week, usually takes less than 4 hours.
+
+I already knew Darwiche was a beloved and highly-regarded professor before enrolling his class, but in contrast to how other professors are handling remote instruction, Darwiche is miles ahead and definitely went above and beyond to make sure students are getting the best out of this course. Really wish I can take another class with him some day!
+
+--- review 108943 (Spring 2020 | Grade: A | June 12, 2020) ---
+This is a great CS elective - fairly easy to get an A in, but not trivially easy. It provided a great high-level overview of AI and its applications, but note that it never delved into the details. Taking this online during Spring 2020, I found that online lectures + piazza were actually more helpful than in person lectures, so I appreciate Darwiche's adjustment to unusual circumstances this quarter.
+
+I recommend the CS 131 + CS 161 combo highly, the logic + Lisp learned initially in CS 161 (at a manageable pace) was really helpful for Prolog and Scheme in CS 131 (learned at a breakneck pace), considering Eggert barely teaches anything.
+
+The projects take time, but nowhere near CS 131. Also, the specs are very specific and (mostly) clear, and the Piazza is helpful; hence, while the projects probably take 5-15 hours a week, it's usually closer to ~7, in contrast to the 20-40 hrs/week for CS 131 projects.
+
+Exam advice: We had mostly MCQ questions and an online format for Spring 2020. So I can't really speak to that. But they weren't trivial, although we learned everything in the exams, unlike an Eggert exam.
+
+Final thoughts: Great CS elective with Darwiche, makes sense why it fills up so fast. Learned Lisp, and basic principles in AI, but didn't learn a huge amount regarding ML / AI (aka, not as much as I had hoped). However, this is due to the workload not being too bad, which is good. 5/5 but don't expect a great intro the AI/ML in regards to knowledge; more of a class to pique interest in the field. But not a trivial amount of work, some of the projects take a decent amount of time.
+
+--- review 88843 (Fall 2015 | Grade: A | March 29, 2016) ---
+His lectures were great. He would go into great detail for all the material to make sure we all understood what was going on.
+
+First couple of weeks he taught Lisp. Then for a big chunk of the course, we learned about search algorithms (BFS, DFS, IDDFS) and heuristic algorithms (A*) among other types of algorithms. Last portion was about probabilities and Bayesian networks. All the homeworks built off of these topics. You end up coding most of these algorithms, which I think was a good experience.
+
+The exams were fair. You could read the book, but usually just noting what he covers and emphasizes in class is sufficient.
+
+Overall: good experience, would recommend.
+
+--- review 144931 (Spring 2025 | Grade: A | June 24, 2025) ---
+This was one of my most enjoyable classes at UCLA and was actually my first time getting an A in a CS course, so that speaks to how clear and engaging Adnan was, and how manageable the coursework is. The course was 30% homework, 30% midterm, 40% final, and the tests were all T/F, MCQ, or short-answer. He curved heavily as I heard some people got an additional 10 percentage points. I was a little peeved as I got a 98 raw score, but I did not get an A+, but I'm not too worked up about it. Overall, if you have the opportunity to take this class, do it. Pro tip: sit in the first two rows, it's hard to see when he writes on the board.
+
+--- review 138454 (Spring 2024 | Grade: A | June 8, 2024) ---
+Sometimes it was hard to see what the professor was writing on the whiteboard, since the classroom was huge. I sometimes had to use the magnifying camera on my phone. Evan, the TA was helpful and covered the material well.
+
+--- review 138262 (Spring 2024 | Grade: A | June 4, 2024) ---
+Professor Darwiche is very well organized and is a good lecturer. However, this course was too slow to my liking. After taking a variety of upper division CS courses, I can confidently say that this class is the slowest I've ever taken. The material is interesting, and many times I would have wished to delve deeper into a particular topic but unfortunately there is not enough time to do that... That being said, time could definitely be made if the topics were covered more quickly; perhaps twice as fast. If you're looking for an interesting and easy, yet somewhat shallow course to take, this might be the one for you. If you want a challenge, maybe consider taking the graduate course that he offers, which is supposedly the same material just taught at a higher level.
+
+--- review 138224 (Spring 2024 | Grade: A | June 4, 2024) ---
+This is the best CS class I have taken at UCLA. Professor Darwiche writes the entire lecture on the board rather than reading off slides, making it easy to pay attention. He is very passionate about the subject so that makes the lectures more enjoyable. The weekly HW aligns with what we learn in lectures so we get to test our understanding frequently. The exams were fair and allowed you to do well if you understood the concepts. I enjoyed this class so much that I want to do my master's at UCLA to take more classes with Professor Darwiche!
+
+--- review 132138 (Spring 2023 | Grade: B- | July 7, 2023) ---
+This class should have an asterisk on it, and indicate that it is a discrete math class. Darwiche is the nicest professor ever, as he extended assignment deadlines when the class collectively asked for it by citing some reason (like an upcoming hackathon, a long weekend, etc). He was also very accommodating for illnesses, and would provide extensions. Despite Darwiche being a great person, this class was extremely boring, and I've never been so sleepy in any other lecture. This class does not have lecture slides; Darwiche lectures by writing on a whiteboard the entire time. The midterm and final were entirely fact based, with mainly T/F and MCQ. There was only one free response question on the midterm. The final was entirely T/F and MCQ Make sure to write down EVERY SINGLE WORD Darwiche says to best prepare for the exams. The assignments were very easy, and only ever took less than 4 hours total. I usually started them 2 days before the deadline and was able to turn them in on time. Darwiche applies a curve to everyone's letter grade at the end of the class. Take this class if you want something easy, or enjoy discrete math.
+
+--- review 131367 (Spring 2023 | Grade: B+ | June 11, 2023) ---
+I liked Darwiche a lot, he's a great guy and a nice professor, but this class is all over the place. Each week is like you're learning a whole new subject. It's not a bad class by any means but I feel like s few of the random concepts we learned could've been dropped.
+
+--- review 125209 (Spring 2022 | Grade: A | July 4, 2022) ---
+CS 161 is a refreshing overview of AI that focuses primarily on non-machine learning approaches. The course content focuses on formulating problem solving as search, search techniques and optimizations, knowledge representation and reasoning, and Bayesian networks and probabilistic reasoning. There is a small section at the end covering decision trees and neural networks, although honestly the course would be better off without it (leave those to CS M146, where they can be explored in depth). If you enjoyed CS 180, and learning Lisp in CS 131, you will enjoy CS 161.
+
+Most of the homework assignments include some coding portion in Lisp. If you've already taken CS 131, you will already know if you like Lisp or if you hate it (there seems to be no in-between). If you haven't yet, you may discover that functional programming is a refreshing new paradigm that inspires you to broaden your horizons and rediscover a language that drove AI research in the 1960s and 70s... or you may curse yourself for signing up for a 6 week crash course in Lisp and vow to never use a linked list or parentheses anywhere in your code again. The former camp will enjoy this course much more. Overall, the difficulty of the assignments is determined largely by your ability to solve problems in a functional style. If you can do that, the assignments are very easy, and you will probably think this course is easier than most CS electives. If you struggle to think using functional patterns, you may find the homework harder than you expected.
+
+Professor Darwiche is a good lecturer. He explains concepts well, though he sometimes has a tendency to go on what seem like long tangents. It is unfortunate that he didn't post any course notes or written slides, because if you missed something in lecture it's impossible to find it again. The TA slides were somewhat helpful, but didn't always contain all the information from lecture. You should attend lectures live - do not plan on skipping them and still passing the course.
+
+The exams were pretty straightforward, although they do test on practically everything mentioned in lecture. There's unfortunately very little practice material posted to help study for the exams, so it's hard to judge your readiness. The textbook reading is a lot, but it didn't seem like it was necessary to do.
+
+Ultimately, one of the coolest aspects of the class was that Professor Darwiche lecturers on subjects that he researched himself. He doesn't mention it in class, but you can look up topics like d-DNNF circuits and find the research papers that originally proposed those topics, written by Professor Darwiche. It's an incredible opportunity to learn about those topics directly from the source himself, and you probably won't find them in any other undergraduate course at UCLA. That's what a research university should feel like.
+
+--- review 124503 (Spring 2022 | Grade: A- | June 16, 2022) ---
+This is a great CS elective, and I would definitely recommend CS 161 with Professor Darwiche. Overall, CS 161 focuses more on the conceptual, theoretical aspects of AI. You'll mainly be learning about various search algorithms and optimizations used in AI, as well as various forms of knowledge representation and reasoning that intelligent agents use. The material towards the later part of the course gets much more interesting, when you'll cover Bayesian networks, probabilistic reasoning, and neural networks (more ML type of stuff). Overall, Professor Darwiche was a very engaging lecturer, and took particular care to explain seemingly abstract concepts in a way that we students can easily understand.
+
+Here is a more detailed breakdown of the grading policy:
+
+Homeworks (30% of the final grade): Most of the written HW assignments are quite straightforward and take a few hours max. But some of the homeworks could be quite time consuming. One homework that stood out to me was creating an efficient SAT solver that could determine the satisfiability of boolean statements in CNF with more than 50 variables. The solution was definitely not obvious, and it took me more than 20 hours to eventually come up with an efficient implementation.
+
+Exams: The midterm was worth 30% and final 40% of the course grade. Honestly, exams were more straightforward than I expected them to be, as the questions on them were all clearly related to some concept either in the lectures or in the homeworks. The most important part of doing well on his exams is to really focus on understanding the concepts and understanding them precisely. Just sort of knowing the material won't cut it, since Darwiche's true/false test questions are really detail-oriented and it's quite easy to get them wrong if you aren't careful. For reference, the final was 60 multiple choice and true/false questions and the average was around a 79. Questions on the final often look easier than they actually are.
+
+The final grading was generous. I had an 88% raw score in this class and received A- as my final grade, so there was definitely some kind of curve for this quarter. Overall, highly recommend this class even if you're only slightly interested in AI and you are okay with a bit of theory.
+
+--- review 110339 (Spring 2020 | Grade: A- | July 3, 2020) ---
+Shit, I wish this guy were teaching all of my classes.
+
+--- review 108916 (Spring 2020 | Grade: A- | June 12, 2020) ---
+Professor Darwiche is a really thoughtful guy. He recorded all lectures and would spend all day editing them (with his own intro music that we different every week!). He usually started off lectures by listing what we're covering that day and summarizes everything at the end too. He periodically checked the Zoom chat for questions and would answer them. He also stayed after lectures for a few minutes to answer any questions.
+
+I sometimes got lost in the class because I wasn't sure what the big idea he was talking about was and would feel confused on how it connected to the rest of the content but maybe that was just me.
+
+My TA Jinghao was really good. His slides were really clear and explained everything in a simple way.
+
+Also, this is my own observation and I'm not sure if other people in my class felt the same but I noticed that some of the concepts he taught weren't easy to find online. And whenever you did find something, it was always his papers. So that makes me wonder how widely used that stuff is in the "real world".
+
+There wasn't a need for a textbook or anything. Homeworks are your standard CS projects so you should expect to put some work into them. They helped me understand some of the concepts more but there were about 2-3 of them that I just couldn't wrap my head around. Tests were less complicated than I expected to be honest. The final was 60 multiple choice and T/F questions which were very conceptual. Median was like 79 for it.
+
+--- review 108469 (Spring 2020 | Grade: NR | May 29, 2020) ---
+The professor is one of the most caring I’ve ever had. Every lecture is meticulously prepared, with diagrams and data prepared in a neat folder on the professor’s computer and pasted into the lecture (digital) whiteboard when needed. He is also quite passionate about certain aspects of course that relate to his own research, which is always great to see in a professor. Course materials and homeworks are also well prepared and interesting.
+
+--- review 88102 (Fall 2015 | Grade: B+ | Feb. 28, 2016) ---
+I'm so glad Professor Darwiche decided to become a Professor. I just wish he taught more CS classes; I would take them all. He is kind, patient, clear, and knowledgeable. I learned a tremedous amount in his class (and not just retaining the information long enough to get a decent grade). Make every effort to take his class, even if you're not interested very much in AI. I can't remmeber one lecture where the classroom wasn't packed. If you're a CS major, you know how rare that is. He's just that good.
+
+--- review 49474 (Nov. 25, 2015) ---
+Adnan is one of the best professors at UCLA. Really, this man makes me feel proud of being a UCLA student. For once after 3 years I don't look at Youtube videos of other universities and feel that I'm missing out a lot by not going to MIT or Stanford. I wish this class would continue on to AI 2 and AI 3 as a whole year program. Adnan should basically teach anything remotely related to AI and algorithms. He simply breaks down everything to conceptual understanding of the material rather than regurgitating some mathematical notation and call it a day.
+
+This class was a lot of fun for me. You have to still work pretty hard for an A but the exam and assignments are fair. His enthusiasm for teaching the subject and his energy during the lecture is contagious. It's really hard to fall asleep during his lecture.
+
+I highly recommend this professor.
+
+--- review 14535 (Nov. 7, 2015) ---
+Professor Darwiche is great! He's an engaging professor and the projects are interesting and fun. His tests are also fair and he makes an effort to make sure the material is understandable. The course covers a broad range of AI topics and gives a good overview of the field.
+
+--- review 48576 (Jan. 4, 2015) ---
+TL;DR Class is very slow paced. I wish there would have been more of the interesting material and less alphabet soup and symbols to memorize.
+
+First few lectures are on Lisp, which is very easy, but also pretty much immaterial to the actual meat of the class (nothing you do in lisp couldn't be done EASILY in the other languages we learn as CS majors). I'm guessing they do it this way so grading is easier since the class is relatively popular. Also, they limit how much of the language you are allowed to use in the projects which is odd.
+
+The next part is on Search and 2 player games, but the interesting part of Search (A*) was unsatisfyingly short for me. For 2 player games, you really only learn the simplest version Alpha-beta (and do no projects on it), which is a highly shortened treatment of a very interesting subject in my opinion. You then cover SAT-Solving, which was interesting, but the project was just an N-Queens in Lisp which reduced to basically just translating a loop, and didn't require any of the techniques previously described in the class except depth first search ($10 says a solution that just returns precomputed solutions for the first 50ish problems would get full credit). The last part of the class is Bayesian networks, which was probably given too high level a treatment. The problems we had to solve with it we were given software for, so I don't feel this was effective for teaching me.
+
+You might think that given what I've said above, that I didn't like this class. That isn't quite true. I overall enjoyed it, but I feel it could have been a lot more.
+
+Adnan, if you see this, here are my suggestions. 1.) Open up the allowed language list. It will make grading trickier, but will also let you spend more time on important material. 2.) Spend more time on A* and SAT and less time on the "dumb search" techniques (BFS etc) 3.) Spend more time on "game AI". Alpha-beta is one algorithm, but Monte Carlo Search with Upper Confidence Bound is a another one that is very interesting (popularized in 2006! and performs much better than Alpha-beta for certain games). I'm of course not an expert in this field, but there's a lot of interesting things that could be explored here 4.) Go a little deeper on Neural networks and the algorithms they use. It was too high level to be useful to me in my opinion. Consider having us implement one of the algorithms instead of just trying to figure out the SamIAm gui for a project.
+
+I know AI has a large breadth as well as depth, but I still find the lack of depth in this class disappointing.
+
+--- review 30012 (June 29, 2014) ---
+He is an excellent prof and cares a lot about his students. The TA Summing Chen was awesome too. He actually answers questions in class and does not rush even if he is falling behind. The projects were awesome(and hard). I struggled but if you are into AI you would love them.
+
+Its just an intro to AI class so expect a little of theory and less programming.
+
+All in all it was a value class from a great prof. Had to put in time, hw's and final were hard. Ended up with an A- after working really hard. I would recommend him :)

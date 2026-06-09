@@ -23,6 +23,8 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
+from sources import SOURCES
+
 RAW_DIR = Path(__file__).resolve().parent.parent / "documents" / "raw"
 
 HEADERS = {
@@ -34,22 +36,6 @@ HEADERS = {
 
 MAX_PAGES = 3          # cap pages per source so we don't over-collect
 REQUEST_DELAY = 1.0    # seconds between requests — be polite to the server
-
-# (slug, professor, course, base_url). slug is used for the saved filename.
-SOURCES = [
-    ("smallberg-cs31",   "David A. Smallberg", "COM SCI 31",   "https://www.bruinwalk.com/professors/david-a-smallberg/com-sci-31/"),
-    ("nachenberg-cs32",  "Carey Nachenberg",   "COM SCI 32",   "https://www.bruinwalk.com/professors/carey-nachenberg/com-sci-32/"),
-    ("nowatzki-cs33",    "Anthony Nowatzki",   "COM SCI 33",   "https://www.bruinwalk.com/professors/anthony-nowatzki/com-sci-33/"),
-    ("eggert-cs33",      "Paul R. Eggert",     "COM SCI 33",   "https://www.bruinwalk.com/professors/paul-r-eggert/com-sci-33/"),
-    ("eggert-cs35l",     "Paul R. Eggert",     "COM SCI 35L",  "https://www.bruinwalk.com/professors/paul-r-eggert/com-sci-35l/"),
-    ("sahai-cs181",      "Amit Sahai",         "COM SCI 181",  "https://www.bruinwalk.com/professors/amit-sahai/com-sci-181/"),
-    ("meka-cs181",       "Raghu Meka",         "COM SCI 181",  "https://www.bruinwalk.com/professors/raghu-meka/com-sci-181/"),
-    ("hsieh-cs180",      "Cho-Jui Hsieh",      "COM SCI 180",  "https://www.bruinwalk.com/professors/cho-jui-hsieh/com-sci-180/"),
-    ("burgin-cs180",     "Mark Burgin",        "COM SCI 180",  "https://www.bruinwalk.com/professors/mark-burgin/com-sci-180/"),
-    ("darwiche-cs161",   "Adnan Darwiche",     "COM SCI 161",  "https://www.bruinwalk.com/professors/adnan-darwiche/com-sci-161/"),
-    ("mirzasoleiman-cs188", "Baharan Mirzasoleiman", "COM SCI 188", "https://www.bruinwalk.com/professors/baharan-mirzasoleiman/com-sci-188-7/"),
-    ("ercegovac-csm51a", "Milos D. Ercegovac", "COM SCI M51A", "https://www.bruinwalk.com/professors/milos-d-ercegovac/com-sci-m51a/"),
-]
 
 
 def count_reviews(html: str) -> int:
